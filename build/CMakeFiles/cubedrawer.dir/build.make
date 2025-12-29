@@ -99,6 +99,8 @@ cubedrawer.exe: CMakeFiles/cubedrawer.dir/build.make
 cubedrawer.exe: libs/glm/glm/libglm.a
 cubedrawer.exe: libs/glfw/src/libglfw3.a
 cubedrawer.exe: C:/Program\ Files/VulkanSDK/1.4.335.0/Lib/vulkan-1.lib
+cubedrawer.exe: libs/vk-bootstrap/libvk-bootstrap.a
+cubedrawer.exe: libs/SDL/libSDL3.a
 cubedrawer.exe: CMakeFiles/cubedrawer.dir/linkLibs.rsp
 cubedrawer.exe: CMakeFiles/cubedrawer.dir/objects1.rsp
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:/Users/Lithi/Documents/cube/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable cubedrawer.exe"

@@ -2097,3 +2097,2628 @@ events:
         - "C:/Program Files/CMake"
         - "C:/Program Files (x86)/cubedrawer"
 ...
+
+---
+events:
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/FindPkgConfig.cmake:69 (find_program)"
+      - "libs/SDL/CMakeLists.txt:65 (find_package)"
+    mode: "program"
+    variable: "PKG_CONFIG_EXECUTABLE"
+    description: "pkg-config executable"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "pkg-config.bat"
+      - "pkg-config"
+      - "pkgconf"
+    candidate_directories:
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files (x86)/ZeroTier/One/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/MATLAB/R2023b/bin/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/"
+      - "C:/Program Files/Neovim/bin/"
+      - "C:/Users/Lithi/scoop/shims/"
+      - "C:/Users/Lithi/.cargo/bin/"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/msys64/ucrt64/bin/"
+      - "C:/Users/Lithi/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/Scripts/"
+      - "C:/dev/vtk/install/bin/"
+      - "C:/Program Files/vcpkg/"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
+      - "C:/Program Files (x86)/clang+llvm-18.1.8-x86_64-pc-windows-msvc/bin/"
+      - "C:/Program Files/bin/"
+      - "C:/Program Files/sbin/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/bin/"
+      - "C:/Program Files (x86)/sbin/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/CMake/sbin/"
+      - "C:/Program Files/CMake/"
+      - "C:/Program Files (x86)/cubedrawer/bin/"
+      - "C:/Program Files (x86)/cubedrawer/sbin/"
+      - "C:/Program Files (x86)/cubedrawer/"
+    searched_directories:
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/pkg-config.bat.com"
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/pkg-config.bat.exe"
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/pkg-config.bat"
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/pkg-config.com"
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/pkg-config.exe"
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/pkg-config"
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/pkgconf.com"
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/pkgconf.exe"
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/pkgconf"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/pkg-config.bat.com"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/pkg-config.bat.exe"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/pkg-config.bat"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/pkg-config.com"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/pkg-config.exe"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/pkg-config"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/pkgconf.com"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/pkgconf.exe"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/pkgconf"
+      - "C:/Windows/System32/pkg-config.bat.com"
+      - "C:/Windows/System32/pkg-config.bat.exe"
+      - "C:/Windows/System32/pkg-config.bat"
+      - "C:/Windows/System32/pkg-config.com"
+      - "C:/Windows/System32/pkg-config.exe"
+      - "C:/Windows/System32/pkg-config"
+      - "C:/Windows/System32/pkgconf.com"
+      - "C:/Windows/System32/pkgconf.exe"
+      - "C:/Windows/System32/pkgconf"
+      - "C:/Windows/pkg-config.bat.com"
+      - "C:/Windows/pkg-config.bat.exe"
+      - "C:/Windows/pkg-config.bat"
+      - "C:/Windows/pkg-config.com"
+      - "C:/Windows/pkg-config.exe"
+      - "C:/Windows/pkg-config"
+      - "C:/Windows/pkgconf.com"
+      - "C:/Windows/pkgconf.exe"
+      - "C:/Windows/pkgconf"
+      - "C:/Windows/System32/wbem/pkg-config.bat.com"
+      - "C:/Windows/System32/wbem/pkg-config.bat.exe"
+      - "C:/Windows/System32/wbem/pkg-config.bat"
+      - "C:/Windows/System32/wbem/pkg-config.com"
+      - "C:/Windows/System32/wbem/pkg-config.exe"
+      - "C:/Windows/System32/wbem/pkg-config"
+      - "C:/Windows/System32/wbem/pkgconf.com"
+      - "C:/Windows/System32/wbem/pkgconf.exe"
+      - "C:/Windows/System32/wbem/pkgconf"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/pkg-config.bat.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/pkg-config.bat.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/pkg-config.bat"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/pkg-config.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/pkg-config.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/pkg-config"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/pkgconf.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/pkgconf.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/pkgconf"
+      - "C:/Windows/System32/OpenSSH/pkg-config.bat.com"
+      - "C:/Windows/System32/OpenSSH/pkg-config.bat.exe"
+      - "C:/Windows/System32/OpenSSH/pkg-config.bat"
+      - "C:/Windows/System32/OpenSSH/pkg-config.com"
+      - "C:/Windows/System32/OpenSSH/pkg-config.exe"
+      - "C:/Windows/System32/OpenSSH/pkg-config"
+      - "C:/Windows/System32/OpenSSH/pkgconf.com"
+      - "C:/Windows/System32/OpenSSH/pkgconf.exe"
+      - "C:/Windows/System32/OpenSSH/pkgconf"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/pkg-config.bat.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/pkg-config.bat.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/pkg-config.bat"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/pkg-config.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/pkg-config.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/pkg-config"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/pkgconf.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/pkgconf.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/pkgconf"
+      - "C:/Program Files (x86)/ZeroTier/One/pkg-config.bat.com"
+      - "C:/Program Files (x86)/ZeroTier/One/pkg-config.bat.exe"
+      - "C:/Program Files (x86)/ZeroTier/One/pkg-config.bat"
+      - "C:/Program Files (x86)/ZeroTier/One/pkg-config.com"
+      - "C:/Program Files (x86)/ZeroTier/One/pkg-config.exe"
+      - "C:/Program Files (x86)/ZeroTier/One/pkg-config"
+      - "C:/Program Files (x86)/ZeroTier/One/pkgconf.com"
+      - "C:/Program Files (x86)/ZeroTier/One/pkgconf.exe"
+      - "C:/Program Files (x86)/ZeroTier/One/pkgconf"
+      - "C:/Program Files/Git/cmd/pkg-config.bat.com"
+      - "C:/Program Files/Git/cmd/pkg-config.bat.exe"
+      - "C:/Program Files/Git/cmd/pkg-config.bat"
+      - "C:/Program Files/Git/cmd/pkg-config.com"
+      - "C:/Program Files/Git/cmd/pkg-config.exe"
+      - "C:/Program Files/Git/cmd/pkg-config"
+      - "C:/Program Files/Git/cmd/pkgconf.com"
+      - "C:/Program Files/Git/cmd/pkgconf.exe"
+      - "C:/Program Files/Git/cmd/pkgconf"
+      - "C:/Program Files/PuTTY/pkg-config.bat.com"
+      - "C:/Program Files/PuTTY/pkg-config.bat.exe"
+      - "C:/Program Files/PuTTY/pkg-config.bat"
+      - "C:/Program Files/PuTTY/pkg-config.com"
+      - "C:/Program Files/PuTTY/pkg-config.exe"
+      - "C:/Program Files/PuTTY/pkg-config"
+      - "C:/Program Files/PuTTY/pkgconf.com"
+      - "C:/Program Files/PuTTY/pkgconf.exe"
+      - "C:/Program Files/PuTTY/pkgconf"
+      - "C:/Program Files/MATLAB/R2023b/bin/pkg-config.bat.com"
+      - "C:/Program Files/MATLAB/R2023b/bin/pkg-config.bat.exe"
+      - "C:/Program Files/MATLAB/R2023b/bin/pkg-config.bat"
+      - "C:/Program Files/MATLAB/R2023b/bin/pkg-config.com"
+      - "C:/Program Files/MATLAB/R2023b/bin/pkg-config.exe"
+      - "C:/Program Files/MATLAB/R2023b/bin/pkg-config"
+      - "C:/Program Files/MATLAB/R2023b/bin/pkgconf.com"
+      - "C:/Program Files/MATLAB/R2023b/bin/pkgconf.exe"
+      - "C:/Program Files/MATLAB/R2023b/bin/pkgconf"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/pkg-config.bat.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/pkg-config.bat.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/pkg-config.bat"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/pkg-config.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/pkg-config.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/pkg-config"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/pkgconf.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/pkgconf.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/pkgconf"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/pkg-config.bat.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/pkg-config.bat.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/pkg-config.bat"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/pkg-config.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/pkg-config.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/pkg-config"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/pkgconf.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/pkgconf.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/pkgconf"
+      - "C:/Program Files/CMake/bin/pkg-config.bat.com"
+      - "C:/Program Files/CMake/bin/pkg-config.bat.exe"
+      - "C:/Program Files/CMake/bin/pkg-config.bat"
+      - "C:/Program Files/CMake/bin/pkg-config.com"
+      - "C:/Program Files/CMake/bin/pkg-config.exe"
+      - "C:/Program Files/CMake/bin/pkg-config"
+      - "C:/Program Files/CMake/bin/pkgconf.com"
+      - "C:/Program Files/CMake/bin/pkgconf.exe"
+      - "C:/Program Files/CMake/bin/pkgconf"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/pkg-config.bat.com"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/pkg-config.bat.exe"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/pkg-config.bat"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/pkg-config.com"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/pkg-config.exe"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/pkg-config"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/pkgconf.com"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/pkgconf.exe"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/pkgconf"
+      - "C:/Program Files/Neovim/bin/pkg-config.bat.com"
+      - "C:/Program Files/Neovim/bin/pkg-config.bat.exe"
+      - "C:/Program Files/Neovim/bin/pkg-config.bat"
+      - "C:/Program Files/Neovim/bin/pkg-config.com"
+      - "C:/Program Files/Neovim/bin/pkg-config.exe"
+      - "C:/Program Files/Neovim/bin/pkg-config"
+      - "C:/Program Files/Neovim/bin/pkgconf.com"
+      - "C:/Program Files/Neovim/bin/pkgconf.exe"
+      - "C:/Program Files/Neovim/bin/pkgconf"
+      - "C:/Users/Lithi/scoop/shims/pkg-config.bat.com"
+      - "C:/Users/Lithi/scoop/shims/pkg-config.bat.exe"
+      - "C:/Users/Lithi/scoop/shims/pkg-config.bat"
+      - "C:/Users/Lithi/scoop/shims/pkg-config.com"
+      - "C:/Users/Lithi/scoop/shims/pkg-config.exe"
+      - "C:/Users/Lithi/scoop/shims/pkg-config"
+      - "C:/Users/Lithi/scoop/shims/pkgconf.com"
+      - "C:/Users/Lithi/scoop/shims/pkgconf.exe"
+      - "C:/Users/Lithi/scoop/shims/pkgconf"
+      - "C:/Users/Lithi/.cargo/bin/pkg-config.bat.com"
+      - "C:/Users/Lithi/.cargo/bin/pkg-config.bat.exe"
+      - "C:/Users/Lithi/.cargo/bin/pkg-config.bat"
+      - "C:/Users/Lithi/.cargo/bin/pkg-config.com"
+      - "C:/Users/Lithi/.cargo/bin/pkg-config.exe"
+      - "C:/Users/Lithi/.cargo/bin/pkg-config"
+      - "C:/Users/Lithi/.cargo/bin/pkgconf.com"
+      - "C:/Users/Lithi/.cargo/bin/pkgconf.exe"
+      - "C:/Users/Lithi/.cargo/bin/pkgconf"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/pkg-config.bat.com"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/pkg-config.bat.exe"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/pkg-config.bat"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/pkg-config.com"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/pkg-config.exe"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/pkg-config"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/pkgconf.com"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/pkgconf.exe"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/pkgconf"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/pkg-config.bat.com"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/pkg-config.bat.exe"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/pkg-config.bat"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/pkg-config.com"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/pkg-config.exe"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/pkg-config"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/pkgconf.com"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/pkgconf.exe"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/pkgconf"
+      - "C:/msys64/ucrt64/bin/pkg-config.bat.com"
+      - "C:/msys64/ucrt64/bin/pkg-config.bat.exe"
+      - "C:/msys64/ucrt64/bin/pkg-config.bat"
+      - "C:/msys64/ucrt64/bin/pkg-config.com"
+    found: "C:/msys64/ucrt64/bin/pkg-config.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin"
+        - "C:\\Program Files\\VulkanSDK\\1.4.335.0\\Bin"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files (x86)\\ZeroTier\\One\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\MATLAB\\R2023b\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files\\Cloudflare\\Cloudflare WARP\\"
+        - "C:\\Program Files\\Neovim\\bin"
+        - "C:\\Users\\Lithi\\scoop\\shims"
+        - "C:\\Users\\Lithi\\.cargo\\bin"
+        - "C:\\Users\\Lithi\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Lithi\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\Users\\Lithi\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\Scripts"
+        - "C:\\dev\\vtk\\install\\bin"
+        - "C:\\Program Files\\vcpkg"
+        - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\MSBuild\\Current\\Bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
+        - "C:\\Program Files (x86)\\clang+llvm-18.1.8-x86_64-pc-windows-msvc\\bin"
+        - "C:\\Program Files\\Neovim\\bin"
+        - "C:\\Program Files\\Neovim\\bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/cubedrawer"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/cubedrawer"
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "libs/SDL/cmake/sdlcpu.cmake:95 (try_compile)"
+      - "libs/SDL/CMakeLists.txt:82 (SDL_DetectTargetCPUArchitectures)"
+    directories:
+      source: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/libs/SDL/CMakeFiles/CMakeTmp/SDL_detect_arch/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/libs/SDL/CMakeFiles/CMakeTmp/SDL_detect_arch/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Lithi/Documents/cube/libs/SDL/cmake"
+    buildResult:
+      variable: "SDL_CPU_CHECK_ALL"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Lithi/Documents/cube/build/Unix Makefiles/libs/SDL/CMakeFiles/CMakeTmp/SDL_detect_arch/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_2419d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.19+164abd434 for .NET Framework
+        Build started 29/12/2025 2:47:02 PM.
+        
+        Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\libs\\SDL\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\cmTC_2419d.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_2419d.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\libs\\SDL\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\".
+          Creating directory "cmTC_2419d.dir\\Debug\\cmTC_2419d.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_2419d.dir\\Debug\\cmTC_2419d.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_2419d.dir\\Debug\\cmTC_2419d.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_2419d.dir\\Debug\\\\" /Fd"C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\libs\\SDL\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_2419d.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\libs\\SDL\\CMakeFiles\\CMakeTmp\\SDL_detect_arch.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35215 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_2419d.dir\\Debug\\\\" /Fd"C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\libs\\SDL\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_2419d.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\libs\\SDL\\CMakeFiles\\CMakeTmp\\SDL_detect_arch.c"
+          SDL_detect_arch.c
+        Lib:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\Lib.exe /OUT:"C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\libs\\SDL\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_2419d.lib" /NOLOGO /MACHINE:X64  /machine:x64 cmTC_2419d.dir\\Debug\\SDL_detect_arch.obj
+          cmTC_2419d.vcxproj -> C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\libs\\SDL\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_2419d.lib
+        FinalizeBuildStatus:
+          Deleting file "cmTC_2419d.dir\\Debug\\cmTC_2419d.tlog\\unsuccessfulbuild".
+          Touching "cmTC_2419d.dir\\Debug\\cmTC_2419d.tlog\\cmTC_2419d.lastbuildstate".
+        Done Building Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\libs\\SDL\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\cmTC_2419d.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:02.06
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCSourceCompiles.cmake:103 (cmake_check_source_compiles)"
+      - "libs/SDL/cmake/PreseedMSVCCache.cmake:3 (check_c_source_compiles)"
+      - "libs/SDL/CMakeLists.txt:433 (SDL_Preseed_CMakeCache)"
+    checks:
+      - "Performing Test CAN_PRESEED"
+    directories:
+      source: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-guwvkv"
+      binary: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-guwvkv"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Lithi/Documents/cube/libs/SDL/cmake"
+    buildResult:
+      variable: "CAN_PRESEED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-guwvkv'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_20e1f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.19+164abd434 for .NET Framework
+        Build started 29/12/2025 2:47:05 PM.
+        
+        Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-guwvkv\\cmTC_20e1f.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_20e1f.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-guwvkv\\Debug\\".
+          Creating directory "cmTC_20e1f.dir\\Debug\\cmTC_20e1f.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_20e1f.dir\\Debug\\cmTC_20e1f.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_20e1f.dir\\Debug\\cmTC_20e1f.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D CAN_PRESEED /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_20e1f.dir\\Debug\\\\" /Fd"cmTC_20e1f.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-guwvkv\\src.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35215 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D CAN_PRESEED /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_20e1f.dir\\Debug\\\\" /Fd"cmTC_20e1f.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-guwvkv\\src.c"
+          src.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-guwvkv\\Debug\\cmTC_20e1f.exe" /INCREMENTAL /ILK:"cmTC_20e1f.dir\\Debug\\cmTC_20e1f.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-guwvkv/Debug/cmTC_20e1f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-guwvkv/Debug/cmTC_20e1f.lib" /MACHINE:X64  /machine:x64 cmTC_20e1f.dir\\Debug\\src.obj
+          cmTC_20e1f.vcxproj -> C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-guwvkv\\Debug\\cmTC_20e1f.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_20e1f.dir\\Debug\\cmTC_20e1f.tlog\\unsuccessfulbuild".
+          Touching "cmTC_20e1f.dir\\Debug\\cmTC_20e1f.tlog\\cmTC_20e1f.lastbuildstate".
+        Done Building Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-guwvkv\\cmTC_20e1f.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.77
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCSourceCompiles.cmake:103 (cmake_check_source_compiles)"
+      - "libs/SDL/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
+      - "libs/SDL/CMakeLists.txt:710 (check_x86_source_compiles)"
+    checks:
+      - "Performing Test COMPILER_SUPPORTS_MMX"
+    directories:
+      source: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-idqecm"
+      binary: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-idqecm"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Lithi/Documents/cube/libs/SDL/cmake"
+    buildResult:
+      variable: "COMPILER_SUPPORTS_MMX"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-idqecm'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_87c34.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.19+164abd434 for .NET Framework
+        Build started 29/12/2025 2:47:06 PM.
+        
+        Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-idqecm\\cmTC_87c34.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_87c34.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-idqecm\\Debug\\".
+          Creating directory "cmTC_87c34.dir\\Debug\\cmTC_87c34.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_87c34.dir\\Debug\\cmTC_87c34.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_87c34.dir\\Debug\\cmTC_87c34.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_MMX /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_87c34.dir\\Debug\\\\" /Fd"cmTC_87c34.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-idqecm\\src.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35215 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_MMX /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_87c34.dir\\Debug\\\\" /Fd"cmTC_87c34.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-idqecm\\src.c"
+          src.c
+        C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-idqecm\\src.c(15,25): error C2440: '=': cannot convert from 'int' to '__m64' [C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-idqecm\\cmTC_87c34.vcxproj]
+        Done Building Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-idqecm\\cmTC_87c34.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-idqecm\\cmTC_87c34.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-idqecm\\src.c(15,25): error C2440: '=': cannot convert from 'int' to '__m64' [C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-idqecm\\cmTC_87c34.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.50
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCSourceCompiles.cmake:103 (cmake_check_source_compiles)"
+      - "libs/SDL/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
+      - "libs/SDL/CMakeLists.txt:731 (check_x86_source_compiles)"
+    checks:
+      - "Performing Test COMPILER_SUPPORTS_SSE"
+    directories:
+      source: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-b2te7p"
+      binary: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-b2te7p"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Lithi/Documents/cube/libs/SDL/cmake"
+    buildResult:
+      variable: "COMPILER_SUPPORTS_SSE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-b2te7p'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_ad3dd.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.19+164abd434 for .NET Framework
+        Build started 29/12/2025 2:47:06 PM.
+        
+        Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-b2te7p\\cmTC_ad3dd.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_ad3dd.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-b2te7p\\Debug\\".
+          Creating directory "cmTC_ad3dd.dir\\Debug\\cmTC_ad3dd.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_ad3dd.dir\\Debug\\cmTC_ad3dd.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_ad3dd.dir\\Debug\\cmTC_ad3dd.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_ad3dd.dir\\Debug\\\\" /Fd"cmTC_ad3dd.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-b2te7p\\src.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35215 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_ad3dd.dir\\Debug\\\\" /Fd"cmTC_ad3dd.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-b2te7p\\src.c"
+          src.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-b2te7p\\Debug\\cmTC_ad3dd.exe" /INCREMENTAL /ILK:"cmTC_ad3dd.dir\\Debug\\cmTC_ad3dd.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-b2te7p/Debug/cmTC_ad3dd.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-b2te7p/Debug/cmTC_ad3dd.lib" /MACHINE:X64  /machine:x64 cmTC_ad3dd.dir\\Debug\\src.obj
+          cmTC_ad3dd.vcxproj -> C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-b2te7p\\Debug\\cmTC_ad3dd.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_ad3dd.dir\\Debug\\cmTC_ad3dd.tlog\\unsuccessfulbuild".
+          Touching "cmTC_ad3dd.dir\\Debug\\cmTC_ad3dd.tlog\\cmTC_ad3dd.lastbuildstate".
+        Done Building Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-b2te7p\\cmTC_ad3dd.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.91
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCSourceCompiles.cmake:103 (cmake_check_source_compiles)"
+      - "libs/SDL/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
+      - "libs/SDL/CMakeLists.txt:752 (check_x86_source_compiles)"
+    checks:
+      - "Performing Test COMPILER_SUPPORTS_SSE2"
+    directories:
+      source: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-9uq17x"
+      binary: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-9uq17x"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Lithi/Documents/cube/libs/SDL/cmake"
+    buildResult:
+      variable: "COMPILER_SUPPORTS_SSE2"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-9uq17x'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5d307.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.19+164abd434 for .NET Framework
+        Build started 29/12/2025 2:47:08 PM.
+        
+        Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-9uq17x\\cmTC_5d307.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_5d307.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-9uq17x\\Debug\\".
+          Creating directory "cmTC_5d307.dir\\Debug\\cmTC_5d307.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_5d307.dir\\Debug\\cmTC_5d307.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_5d307.dir\\Debug\\cmTC_5d307.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE2 /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_5d307.dir\\Debug\\\\" /Fd"cmTC_5d307.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-9uq17x\\src.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35215 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE2 /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_5d307.dir\\Debug\\\\" /Fd"cmTC_5d307.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-9uq17x\\src.c"
+          src.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-9uq17x\\Debug\\cmTC_5d307.exe" /INCREMENTAL /ILK:"cmTC_5d307.dir\\Debug\\cmTC_5d307.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-9uq17x/Debug/cmTC_5d307.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-9uq17x/Debug/cmTC_5d307.lib" /MACHINE:X64  /machine:x64 cmTC_5d307.dir\\Debug\\src.obj
+          cmTC_5d307.vcxproj -> C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-9uq17x\\Debug\\cmTC_5d307.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_5d307.dir\\Debug\\cmTC_5d307.tlog\\unsuccessfulbuild".
+          Touching "cmTC_5d307.dir\\Debug\\cmTC_5d307.tlog\\cmTC_5d307.lastbuildstate".
+        Done Building Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-9uq17x\\cmTC_5d307.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.70
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCSourceCompiles.cmake:103 (cmake_check_source_compiles)"
+      - "libs/SDL/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
+      - "libs/SDL/CMakeLists.txt:773 (check_x86_source_compiles)"
+    checks:
+      - "Performing Test COMPILER_SUPPORTS_SSE3"
+    directories:
+      source: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-bmb341"
+      binary: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-bmb341"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Lithi/Documents/cube/libs/SDL/cmake"
+    buildResult:
+      variable: "COMPILER_SUPPORTS_SSE3"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-bmb341'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_7b3f1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.19+164abd434 for .NET Framework
+        Build started 29/12/2025 2:47:09 PM.
+        
+        Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-bmb341\\cmTC_7b3f1.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_7b3f1.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-bmb341\\Debug\\".
+          Creating directory "cmTC_7b3f1.dir\\Debug\\cmTC_7b3f1.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_7b3f1.dir\\Debug\\cmTC_7b3f1.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_7b3f1.dir\\Debug\\cmTC_7b3f1.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE3 /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_7b3f1.dir\\Debug\\\\" /Fd"cmTC_7b3f1.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-bmb341\\src.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35215 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE3 /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_7b3f1.dir\\Debug\\\\" /Fd"cmTC_7b3f1.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-bmb341\\src.c"
+          src.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-bmb341\\Debug\\cmTC_7b3f1.exe" /INCREMENTAL /ILK:"cmTC_7b3f1.dir\\Debug\\cmTC_7b3f1.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-bmb341/Debug/cmTC_7b3f1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-bmb341/Debug/cmTC_7b3f1.lib" /MACHINE:X64  /machine:x64 cmTC_7b3f1.dir\\Debug\\src.obj
+          cmTC_7b3f1.vcxproj -> C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-bmb341\\Debug\\cmTC_7b3f1.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_7b3f1.dir\\Debug\\cmTC_7b3f1.tlog\\unsuccessfulbuild".
+          Touching "cmTC_7b3f1.dir\\Debug\\cmTC_7b3f1.tlog\\cmTC_7b3f1.lastbuildstate".
+        Done Building Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-bmb341\\cmTC_7b3f1.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.67
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCSourceCompiles.cmake:103 (cmake_check_source_compiles)"
+      - "libs/SDL/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
+      - "libs/SDL/CMakeLists.txt:794 (check_x86_source_compiles)"
+    checks:
+      - "Performing Test COMPILER_SUPPORTS_SSE4_1"
+    directories:
+      source: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-neou77"
+      binary: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-neou77"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Lithi/Documents/cube/libs/SDL/cmake"
+    buildResult:
+      variable: "COMPILER_SUPPORTS_SSE4_1"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-neou77'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_36deb.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.19+164abd434 for .NET Framework
+        Build started 29/12/2025 2:47:10 PM.
+        
+        Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-neou77\\cmTC_36deb.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_36deb.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-neou77\\Debug\\".
+          Creating directory "cmTC_36deb.dir\\Debug\\cmTC_36deb.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_36deb.dir\\Debug\\cmTC_36deb.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_36deb.dir\\Debug\\cmTC_36deb.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE4_1 /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_36deb.dir\\Debug\\\\" /Fd"cmTC_36deb.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-neou77\\src.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35215 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE4_1 /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_36deb.dir\\Debug\\\\" /Fd"cmTC_36deb.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-neou77\\src.c"
+          src.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-neou77\\Debug\\cmTC_36deb.exe" /INCREMENTAL /ILK:"cmTC_36deb.dir\\Debug\\cmTC_36deb.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-neou77/Debug/cmTC_36deb.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-neou77/Debug/cmTC_36deb.lib" /MACHINE:X64  /machine:x64 cmTC_36deb.dir\\Debug\\src.obj
+          cmTC_36deb.vcxproj -> C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-neou77\\Debug\\cmTC_36deb.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_36deb.dir\\Debug\\cmTC_36deb.tlog\\unsuccessfulbuild".
+          Touching "cmTC_36deb.dir\\Debug\\cmTC_36deb.tlog\\cmTC_36deb.lastbuildstate".
+        Done Building Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-neou77\\cmTC_36deb.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.73
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCSourceCompiles.cmake:103 (cmake_check_source_compiles)"
+      - "libs/SDL/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
+      - "libs/SDL/CMakeLists.txt:815 (check_x86_source_compiles)"
+    checks:
+      - "Performing Test COMPILER_SUPPORTS_SSE4_2"
+    directories:
+      source: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-hjpf7u"
+      binary: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-hjpf7u"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Lithi/Documents/cube/libs/SDL/cmake"
+    buildResult:
+      variable: "COMPILER_SUPPORTS_SSE4_2"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-hjpf7u'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_0a962.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.19+164abd434 for .NET Framework
+        Build started 29/12/2025 2:47:11 PM.
+        
+        Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-hjpf7u\\cmTC_0a962.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_0a962.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-hjpf7u\\Debug\\".
+          Creating directory "cmTC_0a962.dir\\Debug\\cmTC_0a962.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_0a962.dir\\Debug\\cmTC_0a962.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_0a962.dir\\Debug\\cmTC_0a962.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE4_2 /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_0a962.dir\\Debug\\\\" /Fd"cmTC_0a962.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-hjpf7u\\src.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35215 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_SSE4_2 /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_0a962.dir\\Debug\\\\" /Fd"cmTC_0a962.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-hjpf7u\\src.c"
+          src.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-hjpf7u\\Debug\\cmTC_0a962.exe" /INCREMENTAL /ILK:"cmTC_0a962.dir\\Debug\\cmTC_0a962.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-hjpf7u/Debug/cmTC_0a962.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-hjpf7u/Debug/cmTC_0a962.lib" /MACHINE:X64  /machine:x64 cmTC_0a962.dir\\Debug\\src.obj
+          cmTC_0a962.vcxproj -> C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-hjpf7u\\Debug\\cmTC_0a962.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_0a962.dir\\Debug\\cmTC_0a962.tlog\\unsuccessfulbuild".
+          Touching "cmTC_0a962.dir\\Debug\\cmTC_0a962.tlog\\cmTC_0a962.lastbuildstate".
+        Done Building Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-hjpf7u\\cmTC_0a962.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.68
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCSourceCompiles.cmake:103 (cmake_check_source_compiles)"
+      - "libs/SDL/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
+      - "libs/SDL/CMakeLists.txt:833 (check_x86_source_compiles)"
+    checks:
+      - "Performing Test COMPILER_SUPPORTS_AVX"
+    directories:
+      source: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-us5rb4"
+      binary: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-us5rb4"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Lithi/Documents/cube/libs/SDL/cmake"
+    buildResult:
+      variable: "COMPILER_SUPPORTS_AVX"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-us5rb4'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_cfb08.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.19+164abd434 for .NET Framework
+        Build started 29/12/2025 2:47:12 PM.
+        
+        Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-us5rb4\\cmTC_cfb08.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_cfb08.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-us5rb4\\Debug\\".
+          Creating directory "cmTC_cfb08.dir\\Debug\\cmTC_cfb08.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_cfb08.dir\\Debug\\cmTC_cfb08.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_cfb08.dir\\Debug\\cmTC_cfb08.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_AVX /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_cfb08.dir\\Debug\\\\" /Fd"cmTC_cfb08.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-us5rb4\\src.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35215 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_AVX /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_cfb08.dir\\Debug\\\\" /Fd"cmTC_cfb08.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-us5rb4\\src.c"
+          src.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-us5rb4\\Debug\\cmTC_cfb08.exe" /INCREMENTAL /ILK:"cmTC_cfb08.dir\\Debug\\cmTC_cfb08.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-us5rb4/Debug/cmTC_cfb08.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-us5rb4/Debug/cmTC_cfb08.lib" /MACHINE:X64  /machine:x64 cmTC_cfb08.dir\\Debug\\src.obj
+          cmTC_cfb08.vcxproj -> C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-us5rb4\\Debug\\cmTC_cfb08.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_cfb08.dir\\Debug\\cmTC_cfb08.tlog\\unsuccessfulbuild".
+          Touching "cmTC_cfb08.dir\\Debug\\cmTC_cfb08.tlog\\cmTC_cfb08.lastbuildstate".
+        Done Building Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-us5rb4\\cmTC_cfb08.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.70
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCSourceCompiles.cmake:103 (cmake_check_source_compiles)"
+      - "libs/SDL/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
+      - "libs/SDL/CMakeLists.txt:854 (check_x86_source_compiles)"
+    checks:
+      - "Performing Test COMPILER_SUPPORTS_AVX2"
+    directories:
+      source: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-a3nqh1"
+      binary: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-a3nqh1"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Lithi/Documents/cube/libs/SDL/cmake"
+    buildResult:
+      variable: "COMPILER_SUPPORTS_AVX2"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-a3nqh1'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_38863.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.19+164abd434 for .NET Framework
+        Build started 29/12/2025 2:47:12 PM.
+        
+        Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-a3nqh1\\cmTC_38863.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_38863.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-a3nqh1\\Debug\\".
+          Creating directory "cmTC_38863.dir\\Debug\\cmTC_38863.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_38863.dir\\Debug\\cmTC_38863.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_38863.dir\\Debug\\cmTC_38863.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_AVX2 /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_38863.dir\\Debug\\\\" /Fd"cmTC_38863.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-a3nqh1\\src.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35215 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_AVX2 /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_38863.dir\\Debug\\\\" /Fd"cmTC_38863.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-a3nqh1\\src.c"
+          src.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-a3nqh1\\Debug\\cmTC_38863.exe" /INCREMENTAL /ILK:"cmTC_38863.dir\\Debug\\cmTC_38863.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-a3nqh1/Debug/cmTC_38863.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-a3nqh1/Debug/cmTC_38863.lib" /MACHINE:X64  /machine:x64 cmTC_38863.dir\\Debug\\src.obj
+          cmTC_38863.vcxproj -> C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-a3nqh1\\Debug\\cmTC_38863.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_38863.dir\\Debug\\cmTC_38863.tlog\\unsuccessfulbuild".
+          Touching "cmTC_38863.dir\\Debug\\cmTC_38863.tlog\\cmTC_38863.lastbuildstate".
+        Done Building Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-a3nqh1\\cmTC_38863.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.69
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCSourceCompiles.cmake:103 (cmake_check_source_compiles)"
+      - "libs/SDL/cmake/sdlcompilers.cmake:180 (check_c_source_compiles)"
+      - "libs/SDL/CMakeLists.txt:875 (check_x86_source_compiles)"
+    checks:
+      - "Performing Test COMPILER_SUPPORTS_AVX512F"
+    directories:
+      source: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-wxrz7u"
+      binary: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-wxrz7u"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Lithi/Documents/cube/libs/SDL/cmake"
+    buildResult:
+      variable: "COMPILER_SUPPORTS_AVX512F"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-wxrz7u'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_9b761.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.19+164abd434 for .NET Framework
+        Build started 29/12/2025 2:47:13 PM.
+        
+        Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-wxrz7u\\cmTC_9b761.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_9b761.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-wxrz7u\\Debug\\".
+          Creating directory "cmTC_9b761.dir\\Debug\\cmTC_9b761.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_9b761.dir\\Debug\\cmTC_9b761.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_9b761.dir\\Debug\\cmTC_9b761.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_AVX512F /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_9b761.dir\\Debug\\\\" /Fd"cmTC_9b761.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-wxrz7u\\src.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35215 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D COMPILER_SUPPORTS_AVX512F /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_9b761.dir\\Debug\\\\" /Fd"cmTC_9b761.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-wxrz7u\\src.c"
+          src.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-wxrz7u\\Debug\\cmTC_9b761.exe" /INCREMENTAL /ILK:"cmTC_9b761.dir\\Debug\\cmTC_9b761.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-wxrz7u/Debug/cmTC_9b761.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-wxrz7u/Debug/cmTC_9b761.lib" /MACHINE:X64  /machine:x64 cmTC_9b761.dir\\Debug\\src.obj
+          cmTC_9b761.vcxproj -> C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-wxrz7u\\Debug\\cmTC_9b761.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_9b761.dir\\Debug\\cmTC_9b761.tlog\\unsuccessfulbuild".
+          Touching "cmTC_9b761.dir\\Debug\\cmTC_9b761.tlog\\cmTC_9b761.lastbuildstate".
+        Done Building Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-wxrz7u\\cmTC_9b761.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.68
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CheckSymbolExists.cmake:193 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CheckSymbolExists.cmake:98 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "libs/SDL/CMakeLists.txt:1116 (check_symbol_exists)"
+    checks:
+      - "Looking for _copysign"
+    directories:
+      source: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-rmlfzc"
+      binary: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-rmlfzc"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Lithi/Documents/cube/libs/SDL/cmake"
+    buildResult:
+      variable: "LIBC_HAS__COPYSIGN"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-rmlfzc'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_dc8b3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.19+164abd434 for .NET Framework
+        Build started 29/12/2025 2:47:14 PM.
+        
+        Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-rmlfzc\\cmTC_dc8b3.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_dc8b3.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-rmlfzc\\Debug\\".
+          Creating directory "cmTC_dc8b3.dir\\Debug\\cmTC_dc8b3.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_dc8b3.dir\\Debug\\cmTC_dc8b3.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_dc8b3.dir\\Debug\\cmTC_dc8b3.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_dc8b3.dir\\Debug\\\\" /Fd"cmTC_dc8b3.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-rmlfzc\\CheckSymbolExists.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35215 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_dc8b3.dir\\Debug\\\\" /Fd"cmTC_dc8b3.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-rmlfzc\\CheckSymbolExists.c"
+          CheckSymbolExists.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-rmlfzc\\Debug\\cmTC_dc8b3.exe" /INCREMENTAL /ILK:"cmTC_dc8b3.dir\\Debug\\cmTC_dc8b3.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-rmlfzc/Debug/cmTC_dc8b3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-rmlfzc/Debug/cmTC_dc8b3.lib" /MACHINE:X64  /machine:x64 cmTC_dc8b3.dir\\Debug\\CheckSymbolExists.obj
+          cmTC_dc8b3.vcxproj -> C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-rmlfzc\\Debug\\cmTC_dc8b3.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_dc8b3.dir\\Debug\\cmTC_dc8b3.tlog\\unsuccessfulbuild".
+          Touching "cmTC_dc8b3.dir\\Debug\\cmTC_dc8b3.tlog\\cmTC_dc8b3.lastbuildstate".
+        Done Building Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-rmlfzc\\cmTC_dc8b3.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.74
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CheckSymbolExists.cmake:193 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CheckSymbolExists.cmake:98 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "libs/SDL/CMakeLists.txt:1116 (check_symbol_exists)"
+    checks:
+      - "Looking for _fseeki64"
+    directories:
+      source: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-6q5uej"
+      binary: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-6q5uej"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Lithi/Documents/cube/libs/SDL/cmake"
+    buildResult:
+      variable: "LIBC_HAS__FSEEKI64"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-6q5uej'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_e49d1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.19+164abd434 for .NET Framework
+        Build started 29/12/2025 2:47:15 PM.
+        
+        Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-6q5uej\\cmTC_e49d1.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_e49d1.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-6q5uej\\Debug\\".
+          Creating directory "cmTC_e49d1.dir\\Debug\\cmTC_e49d1.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_e49d1.dir\\Debug\\cmTC_e49d1.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_e49d1.dir\\Debug\\cmTC_e49d1.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_e49d1.dir\\Debug\\\\" /Fd"cmTC_e49d1.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-6q5uej\\CheckSymbolExists.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35215 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_e49d1.dir\\Debug\\\\" /Fd"cmTC_e49d1.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-6q5uej\\CheckSymbolExists.c"
+          CheckSymbolExists.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-6q5uej\\Debug\\cmTC_e49d1.exe" /INCREMENTAL /ILK:"cmTC_e49d1.dir\\Debug\\cmTC_e49d1.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-6q5uej/Debug/cmTC_e49d1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-6q5uej/Debug/cmTC_e49d1.lib" /MACHINE:X64  /machine:x64 cmTC_e49d1.dir\\Debug\\CheckSymbolExists.obj
+          cmTC_e49d1.vcxproj -> C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-6q5uej\\Debug\\cmTC_e49d1.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_e49d1.dir\\Debug\\cmTC_e49d1.tlog\\unsuccessfulbuild".
+          Touching "cmTC_e49d1.dir\\Debug\\cmTC_e49d1.tlog\\cmTC_e49d1.lastbuildstate".
+        Done Building Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-6q5uej\\cmTC_e49d1.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.73
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCSourceCompiles.cmake:103 (cmake_check_source_compiles)"
+      - "libs/SDL/CMakeLists.txt:2238 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_GAMEINPUT_H"
+    directories:
+      source: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-xh4kno"
+      binary: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-xh4kno"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Lithi/Documents/cube/libs/SDL/cmake"
+    buildResult:
+      variable: "HAVE_GAMEINPUT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-xh4kno'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_50eda.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.19+164abd434 for .NET Framework
+        Build started 29/12/2025 2:47:16 PM.
+        
+        Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-xh4kno\\cmTC_50eda.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_50eda.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-xh4kno\\Debug\\".
+          Creating directory "cmTC_50eda.dir\\Debug\\cmTC_50eda.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_50eda.dir\\Debug\\cmTC_50eda.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_50eda.dir\\Debug\\cmTC_50eda.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D HAVE_GAMEINPUT_H /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_50eda.dir\\Debug\\\\" /Fd"cmTC_50eda.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-xh4kno\\src.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35215 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D HAVE_GAMEINPUT_H /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_50eda.dir\\Debug\\\\" /Fd"cmTC_50eda.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-xh4kno\\src.c"
+          src.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-xh4kno\\Debug\\cmTC_50eda.exe" /INCREMENTAL /ILK:"cmTC_50eda.dir\\Debug\\cmTC_50eda.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-xh4kno/Debug/cmTC_50eda.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-xh4kno/Debug/cmTC_50eda.lib" /MACHINE:X64  /machine:x64 cmTC_50eda.dir\\Debug\\src.obj
+          cmTC_50eda.vcxproj -> C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-xh4kno\\Debug\\cmTC_50eda.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_50eda.dir\\Debug\\cmTC_50eda.tlog\\unsuccessfulbuild".
+          Touching "cmTC_50eda.dir\\Debug\\cmTC_50eda.tlog\\cmTC_50eda.lastbuildstate".
+        Done Building Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-xh4kno\\cmTC_50eda.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.92
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CheckIncludeFile.cmake:165 (try_compile)"
+      - "libs/SDL/CMakeLists.txt:2244 (check_include_file)"
+    checks:
+      - "Looking for dxgi1_5.h"
+    directories:
+      source: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-fzkpyh"
+      binary: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-fzkpyh"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Lithi/Documents/cube/libs/SDL/cmake"
+    buildResult:
+      variable: "HAVE_DXGI1_5_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-fzkpyh'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_ef07c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.19+164abd434 for .NET Framework
+        Build started 29/12/2025 2:47:18 PM.
+        
+        Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-fzkpyh\\cmTC_ef07c.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_ef07c.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-fzkpyh\\Debug\\".
+          Creating directory "cmTC_ef07c.dir\\Debug\\cmTC_ef07c.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_ef07c.dir\\Debug\\cmTC_ef07c.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_ef07c.dir\\Debug\\cmTC_ef07c.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_ef07c.dir\\Debug\\\\" /Fd"cmTC_ef07c.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-fzkpyh\\CheckIncludeFile.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35215 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_ef07c.dir\\Debug\\\\" /Fd"cmTC_ef07c.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-fzkpyh\\CheckIncludeFile.c"
+          CheckIncludeFile.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-fzkpyh\\Debug\\cmTC_ef07c.exe" /INCREMENTAL /ILK:"cmTC_ef07c.dir\\Debug\\cmTC_ef07c.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-fzkpyh/Debug/cmTC_ef07c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-fzkpyh/Debug/cmTC_ef07c.lib" /MACHINE:X64  /machine:x64 cmTC_ef07c.dir\\Debug\\CheckIncludeFile.obj
+          cmTC_ef07c.vcxproj -> C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-fzkpyh\\Debug\\cmTC_ef07c.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_ef07c.dir\\Debug\\cmTC_ef07c.tlog\\unsuccessfulbuild".
+          Touching "cmTC_ef07c.dir\\Debug\\cmTC_ef07c.tlog\\cmTC_ef07c.lastbuildstate".
+        Done Building Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-fzkpyh\\cmTC_ef07c.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.92
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CheckIncludeFile.cmake:165 (try_compile)"
+      - "libs/SDL/CMakeLists.txt:2245 (check_include_file)"
+    checks:
+      - "Looking for dxgi1_6.h"
+    directories:
+      source: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-7n5vnz"
+      binary: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-7n5vnz"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Lithi/Documents/cube/libs/SDL/cmake"
+    buildResult:
+      variable: "HAVE_DXGI1_6_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-7n5vnz'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_a7b7b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.19+164abd434 for .NET Framework
+        Build started 29/12/2025 2:47:19 PM.
+        
+        Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-7n5vnz\\cmTC_a7b7b.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_a7b7b.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-7n5vnz\\Debug\\".
+          Creating directory "cmTC_a7b7b.dir\\Debug\\cmTC_a7b7b.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_a7b7b.dir\\Debug\\cmTC_a7b7b.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_a7b7b.dir\\Debug\\cmTC_a7b7b.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_a7b7b.dir\\Debug\\\\" /Fd"cmTC_a7b7b.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-7n5vnz\\CheckIncludeFile.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35215 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_a7b7b.dir\\Debug\\\\" /Fd"cmTC_a7b7b.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-7n5vnz\\CheckIncludeFile.c"
+          CheckIncludeFile.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-7n5vnz\\Debug\\cmTC_a7b7b.exe" /INCREMENTAL /ILK:"cmTC_a7b7b.dir\\Debug\\cmTC_a7b7b.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-7n5vnz/Debug/cmTC_a7b7b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-7n5vnz/Debug/cmTC_a7b7b.lib" /MACHINE:X64  /machine:x64 cmTC_a7b7b.dir\\Debug\\CheckIncludeFile.obj
+          cmTC_a7b7b.vcxproj -> C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-7n5vnz\\Debug\\cmTC_a7b7b.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_a7b7b.dir\\Debug\\cmTC_a7b7b.tlog\\unsuccessfulbuild".
+          Touching "cmTC_a7b7b.dir\\Debug\\cmTC_a7b7b.tlog\\cmTC_a7b7b.lastbuildstate".
+        Done Building Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-7n5vnz\\cmTC_a7b7b.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.90
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCSourceCompiles.cmake:103 (cmake_check_source_compiles)"
+      - "libs/SDL/CMakeLists.txt:2252 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_MFAPI_H"
+    directories:
+      source: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-4d31vw"
+      binary: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-4d31vw"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Lithi/Documents/cube/libs/SDL/cmake"
+    buildResult:
+      variable: "HAVE_MFAPI_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-4d31vw'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_939c2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.19+164abd434 for .NET Framework
+        Build started 29/12/2025 2:47:20 PM.
+        
+        Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-4d31vw\\cmTC_939c2.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_939c2.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-4d31vw\\Debug\\".
+          Creating directory "cmTC_939c2.dir\\Debug\\cmTC_939c2.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_939c2.dir\\Debug\\cmTC_939c2.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_939c2.dir\\Debug\\cmTC_939c2.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D HAVE_MFAPI_H /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_939c2.dir\\Debug\\\\" /Fd"cmTC_939c2.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-4d31vw\\src.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35215 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _GNU_SOURCE=1 /D HAVE_MFAPI_H /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_939c2.dir\\Debug\\\\" /Fd"cmTC_939c2.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-4d31vw\\src.c"
+          src.c
+        Link:
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-4d31vw\\Debug\\cmTC_939c2.exe" /INCREMENTAL /ILK:"cmTC_939c2.dir\\Debug\\cmTC_939c2.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-4d31vw/Debug/cmTC_939c2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/CMakeScratch/TryCompile-4d31vw/Debug/cmTC_939c2.lib" /MACHINE:X64  /machine:x64 cmTC_939c2.dir\\Debug\\src.obj
+          cmTC_939c2.vcxproj -> C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-4d31vw\\Debug\\cmTC_939c2.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_939c2.dir\\Debug\\cmTC_939c2.tlog\\unsuccessfulbuild".
+          Touching "cmTC_939c2.dir\\Debug\\cmTC_939c2.tlog\\cmTC_939c2.lastbuildstate".
+        Done Building Project "C:\\Users\\Lithi\\Documents\\cube\\build\\Unix Makefiles\\CMakeFiles\\CMakeScratch\\TryCompile-4d31vw\\cmTC_939c2.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:01.00
+        
+      exitCode: 0
+  -
+    kind: "find-v1"
+    backtrace:
+      - "libs/SDL/cmake/FindLibUSB.cmake:12 (find_library)"
+      - "libs/SDL/cmake/sdlchecks.cmake:1259 (find_package)"
+      - "libs/SDL/CMakeLists.txt:2411 (CheckHIDAPI)"
+    mode: "library"
+    variable: "LibUSB_LIBRARY"
+    description: "Path to a library."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "usb-1.0"
+      - "libusb-1.0"
+      - "usb"
+    candidate_directories:
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files (x86)/ZeroTier/One/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/MATLAB/R2023b/bin/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/"
+      - "C:/Program Files/Neovim/bin/"
+      - "C:/Users/Lithi/scoop/shims/"
+      - "C:/Users/Lithi/.cargo/bin/"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/msys64/ucrt64/bin/"
+      - "C:/Users/Lithi/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/Scripts/"
+      - "C:/dev/vtk/install/bin/"
+      - "C:/Program Files/vcpkg/"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
+      - "C:/Program Files (x86)/clang+llvm-18.1.8-x86_64-pc-windows-msvc/bin/"
+      - "C:/Program Files/lib/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/lib/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files/CMake/lib/"
+      - "C:/Program Files/CMake/"
+      - "C:/Program Files (x86)/cubedrawer/lib/"
+      - "C:/Program Files (x86)/cubedrawer/"
+      - "C:/Program Files (x86)/cubedrawer/bin/"
+      - "/bin/"
+    searched_directories:
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files (x86)/ZeroTier/One/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/MATLAB/R2023b/bin/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/"
+      - "C:/Program Files/Neovim/bin/"
+      - "C:/Users/Lithi/scoop/shims/"
+      - "C:/Users/Lithi/.cargo/bin/"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/msys64/ucrt64/bin/"
+      - "C:/Users/Lithi/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/Scripts/"
+      - "C:/dev/vtk/install/bin/"
+      - "C:/Program Files/vcpkg/"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
+      - "C:/Program Files (x86)/clang+llvm-18.1.8-x86_64-pc-windows-msvc/bin/"
+      - "C:/Program Files/lib/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/lib/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files/CMake/lib/"
+      - "C:/Program Files/CMake/"
+      - "C:/Program Files (x86)/cubedrawer/lib/"
+      - "C:/Program Files (x86)/cubedrawer/"
+      - "C:/Program Files (x86)/cubedrawer/bin/"
+      - "/bin/"
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files (x86)/ZeroTier/One/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/MATLAB/R2023b/bin/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/"
+      - "C:/Program Files/Neovim/bin/"
+      - "C:/Users/Lithi/scoop/shims/"
+      - "C:/Users/Lithi/.cargo/bin/"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/msys64/ucrt64/bin/"
+      - "C:/Users/Lithi/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/Scripts/"
+      - "C:/dev/vtk/install/bin/"
+      - "C:/Program Files/vcpkg/"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
+      - "C:/Program Files (x86)/clang+llvm-18.1.8-x86_64-pc-windows-msvc/bin/"
+      - "C:/Program Files/lib/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/lib/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files/CMake/lib/"
+      - "C:/Program Files/CMake/"
+      - "C:/Program Files (x86)/cubedrawer/lib/"
+      - "C:/Program Files (x86)/cubedrawer/"
+      - "C:/Program Files (x86)/cubedrawer/bin/"
+      - "/bin/"
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files (x86)/ZeroTier/One/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/MATLAB/R2023b/bin/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/"
+      - "C:/Program Files/Neovim/bin/"
+      - "C:/Users/Lithi/scoop/shims/"
+      - "C:/Users/Lithi/.cargo/bin/"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/msys64/ucrt64/bin/"
+      - "C:/Users/Lithi/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/Scripts/"
+      - "C:/dev/vtk/install/bin/"
+      - "C:/Program Files/vcpkg/"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
+      - "C:/Program Files (x86)/clang+llvm-18.1.8-x86_64-pc-windows-msvc/bin/"
+      - "C:/Program Files/lib/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/lib/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files/CMake/lib/"
+      - "C:/Program Files/CMake/"
+      - "C:/Program Files (x86)/cubedrawer/lib/"
+      - "C:/Program Files (x86)/cubedrawer/"
+      - "C:/Program Files (x86)/cubedrawer/bin/"
+      - "/bin/"
+    found: false
+    search_context:
+      ENV{PATH}:
+        - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin"
+        - "C:\\Program Files\\VulkanSDK\\1.4.335.0\\Bin"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files (x86)\\ZeroTier\\One\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\MATLAB\\R2023b\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files\\Cloudflare\\Cloudflare WARP\\"
+        - "C:\\Program Files\\Neovim\\bin"
+        - "C:\\Users\\Lithi\\scoop\\shims"
+        - "C:\\Users\\Lithi\\.cargo\\bin"
+        - "C:\\Users\\Lithi\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Lithi\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\Users\\Lithi\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\Scripts"
+        - "C:\\dev\\vtk\\install\\bin"
+        - "C:\\Program Files\\vcpkg"
+        - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\MSBuild\\Current\\Bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
+        - "C:\\Program Files (x86)\\clang+llvm-18.1.8-x86_64-pc-windows-msvc\\bin"
+        - "C:\\Program Files\\Neovim\\bin"
+        - "C:\\Program Files\\Neovim\\bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/cubedrawer"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/cubedrawer"
+      CMAKE_SYSTEM_LIBRARY_PATH:
+        - "C:/Program Files (x86)/cubedrawer/bin"
+        - "C:/Program Files/CMake/bin"
+        - "/bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "libs/SDL/cmake/FindLibUSB.cmake:17 (find_path)"
+      - "libs/SDL/cmake/sdlchecks.cmake:1259 (find_package)"
+      - "libs/SDL/CMakeLists.txt:2411 (CheckHIDAPI)"
+    mode: "path"
+    variable: "LibUSB_INCLUDE_PATH"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "libusb.h"
+    candidate_directories:
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/libusb-1.0/"
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/libusb-1.0/"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/"
+      - "C:/Windows/System32/libusb-1.0/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/libusb-1.0/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/libusb-1.0/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/libusb-1.0/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/libusb-1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/libusb-1.0/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files (x86)/ZeroTier/One/libusb-1.0/"
+      - "C:/Program Files (x86)/ZeroTier/One/"
+      - "C:/Program Files/Git/cmd/libusb-1.0/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/libusb-1.0/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/MATLAB/R2023b/bin/libusb-1.0/"
+      - "C:/Program Files/MATLAB/R2023b/bin/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/libusb-1.0/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/libusb-1.0/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/CMake/bin/libusb-1.0/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/libusb-1.0/"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/"
+      - "C:/Program Files/Neovim/bin/libusb-1.0/"
+      - "C:/Program Files/Neovim/bin/"
+      - "C:/Users/Lithi/scoop/shims/libusb-1.0/"
+      - "C:/Users/Lithi/scoop/shims/"
+      - "C:/Users/Lithi/.cargo/bin/libusb-1.0/"
+      - "C:/Users/Lithi/.cargo/bin/"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/libusb-1.0/"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/libusb-1.0/"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/msys64/ucrt64/bin/libusb-1.0/"
+      - "C:/msys64/ucrt64/bin/"
+      - "C:/Users/Lithi/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/Scripts/libusb-1.0/"
+      - "C:/Users/Lithi/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/Scripts/"
+      - "C:/dev/vtk/install/bin/libusb-1.0/"
+      - "C:/dev/vtk/install/bin/"
+      - "C:/Program Files/vcpkg/libusb-1.0/"
+      - "C:/Program Files/vcpkg/"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/libusb-1.0/"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/libusb-1.0/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
+      - "C:/Program Files (x86)/clang+llvm-18.1.8-x86_64-pc-windows-msvc/bin/libusb-1.0/"
+      - "C:/Program Files (x86)/clang+llvm-18.1.8-x86_64-pc-windows-msvc/bin/"
+      - "C:/Program Files/include/libusb-1.0/"
+      - "C:/Program Files/include/"
+      - "C:/Program Files/libusb-1.0/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/include/libusb-1.0/"
+      - "C:/Program Files (x86)/include/"
+      - "C:/Program Files (x86)/libusb-1.0/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files/CMake/include/libusb-1.0/"
+      - "C:/Program Files/CMake/include/"
+      - "C:/Program Files/CMake/libusb-1.0/"
+      - "C:/Program Files/CMake/"
+      - "C:/Program Files (x86)/cubedrawer/include/libusb-1.0/"
+      - "C:/Program Files (x86)/cubedrawer/include/"
+      - "C:/Program Files (x86)/cubedrawer/libusb-1.0/"
+      - "C:/Program Files (x86)/cubedrawer/"
+    searched_directories:
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/libusb-1.0/libusb.h"
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/libusb.h"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/libusb-1.0/libusb.h"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/libusb.h"
+      - "C:/Windows/System32/libusb-1.0/libusb.h"
+      - "C:/Windows/System32/libusb.h"
+      - "C:/Windows/libusb-1.0/libusb.h"
+      - "C:/Windows/libusb.h"
+      - "C:/Windows/System32/wbem/libusb-1.0/libusb.h"
+      - "C:/Windows/System32/wbem/libusb.h"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/libusb-1.0/libusb.h"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/libusb.h"
+      - "C:/Windows/System32/OpenSSH/libusb-1.0/libusb.h"
+      - "C:/Windows/System32/OpenSSH/libusb.h"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/libusb-1.0/libusb.h"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/libusb.h"
+      - "C:/Program Files (x86)/ZeroTier/One/libusb-1.0/libusb.h"
+      - "C:/Program Files (x86)/ZeroTier/One/libusb.h"
+      - "C:/Program Files/Git/cmd/libusb-1.0/libusb.h"
+      - "C:/Program Files/Git/cmd/libusb.h"
+      - "C:/Program Files/PuTTY/libusb-1.0/libusb.h"
+      - "C:/Program Files/PuTTY/libusb.h"
+      - "C:/Program Files/MATLAB/R2023b/bin/libusb-1.0/libusb.h"
+      - "C:/Program Files/MATLAB/R2023b/bin/libusb.h"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/libusb-1.0/libusb.h"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/libusb.h"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/libusb-1.0/libusb.h"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/libusb.h"
+      - "C:/Program Files/CMake/bin/libusb-1.0/libusb.h"
+      - "C:/Program Files/CMake/bin/libusb.h"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/libusb-1.0/libusb.h"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/libusb.h"
+      - "C:/Program Files/Neovim/bin/libusb-1.0/libusb.h"
+      - "C:/Program Files/Neovim/bin/libusb.h"
+      - "C:/Users/Lithi/scoop/shims/libusb-1.0/libusb.h"
+      - "C:/Users/Lithi/scoop/shims/libusb.h"
+      - "C:/Users/Lithi/.cargo/bin/libusb-1.0/libusb.h"
+      - "C:/Users/Lithi/.cargo/bin/libusb.h"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/libusb-1.0/libusb.h"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/libusb.h"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/libusb-1.0/libusb.h"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/libusb.h"
+      - "C:/msys64/ucrt64/bin/libusb-1.0/libusb.h"
+      - "C:/msys64/ucrt64/bin/libusb.h"
+      - "C:/Users/Lithi/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/Scripts/libusb-1.0/libusb.h"
+      - "C:/Users/Lithi/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/Scripts/libusb.h"
+      - "C:/dev/vtk/install/bin/libusb-1.0/libusb.h"
+      - "C:/dev/vtk/install/bin/libusb.h"
+      - "C:/Program Files/vcpkg/libusb-1.0/libusb.h"
+      - "C:/Program Files/vcpkg/libusb.h"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/libusb-1.0/libusb.h"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/libusb.h"
+      - "C:/Program Files (x86)/GnuWin32/bin/libusb-1.0/libusb.h"
+      - "C:/Program Files (x86)/GnuWin32/bin/libusb.h"
+      - "C:/Program Files (x86)/clang+llvm-18.1.8-x86_64-pc-windows-msvc/bin/libusb-1.0/libusb.h"
+      - "C:/Program Files (x86)/clang+llvm-18.1.8-x86_64-pc-windows-msvc/bin/libusb.h"
+      - "C:/Program Files/include/libusb-1.0/libusb.h"
+      - "C:/Program Files/include/libusb.h"
+      - "C:/Program Files/libusb-1.0/libusb.h"
+      - "C:/Program Files/libusb.h"
+      - "C:/Program Files (x86)/include/libusb-1.0/libusb.h"
+      - "C:/Program Files (x86)/include/libusb.h"
+      - "C:/Program Files (x86)/libusb-1.0/libusb.h"
+      - "C:/Program Files (x86)/libusb.h"
+      - "C:/Program Files/CMake/include/libusb-1.0/libusb.h"
+      - "C:/Program Files/CMake/include/libusb.h"
+      - "C:/Program Files/CMake/libusb-1.0/libusb.h"
+      - "C:/Program Files/CMake/libusb.h"
+      - "C:/Program Files (x86)/cubedrawer/include/libusb-1.0/libusb.h"
+      - "C:/Program Files (x86)/cubedrawer/include/libusb.h"
+      - "C:/Program Files (x86)/cubedrawer/libusb-1.0/libusb.h"
+      - "C:/Program Files (x86)/cubedrawer/libusb.h"
+    found: false
+    search_context:
+      ENV{PATH}:
+        - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin"
+        - "C:\\Program Files\\VulkanSDK\\1.4.335.0\\Bin"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files (x86)\\ZeroTier\\One\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\MATLAB\\R2023b\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files\\Cloudflare\\Cloudflare WARP\\"
+        - "C:\\Program Files\\Neovim\\bin"
+        - "C:\\Users\\Lithi\\scoop\\shims"
+        - "C:\\Users\\Lithi\\.cargo\\bin"
+        - "C:\\Users\\Lithi\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Lithi\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\Users\\Lithi\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\Scripts"
+        - "C:\\dev\\vtk\\install\\bin"
+        - "C:\\Program Files\\vcpkg"
+        - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\MSBuild\\Current\\Bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
+        - "C:\\Program Files (x86)\\clang+llvm-18.1.8-x86_64-pc-windows-msvc\\bin"
+        - "C:\\Program Files\\Neovim\\bin"
+        - "C:\\Program Files\\Neovim\\bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/cubedrawer"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/cubedrawer"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/FindGit.cmake:86 (find_program)"
+      - "libs/SDL/cmake/GetGitRevisionDescription.cmake:193 (find_package)"
+      - "libs/SDL/CMakeLists.txt:3695 (git_describe)"
+    mode: "program"
+    variable: "GIT_EXECUTABLE"
+    description: "Git command line client"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "git.cmd"
+      - "git"
+    candidate_directories:
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files (x86)/ZeroTier/One/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/MATLAB/R2023b/bin/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/"
+      - "C:/Program Files/Neovim/bin/"
+      - "C:/Users/Lithi/scoop/shims/"
+      - "C:/Users/Lithi/.cargo/bin/"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/msys64/ucrt64/bin/"
+      - "C:/Users/Lithi/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/Scripts/"
+      - "C:/dev/vtk/install/bin/"
+      - "C:/Program Files/vcpkg/"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/"
+      - "C:/Program Files (x86)/GnuWin32/bin/"
+      - "C:/Program Files (x86)/clang+llvm-18.1.8-x86_64-pc-windows-msvc/bin/"
+      - "C:/Program Files/bin/"
+      - "C:/Program Files/sbin/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/bin/"
+      - "C:/Program Files (x86)/sbin/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/CMake/sbin/"
+      - "C:/Program Files/CMake/"
+      - "C:/Program Files (x86)/cubedrawer/bin/"
+      - "C:/Program Files (x86)/cubedrawer/sbin/"
+      - "C:/Program Files (x86)/cubedrawer/"
+      - "C:/Users/Lithi/AppData/Local/Atlassian/SourceTree/git_local/bin/"
+    searched_directories:
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/git.cmd.com"
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/git.cmd.exe"
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/git.cmd"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/git.cmd.com"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/git.cmd.exe"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/git.cmd"
+      - "C:/Windows/System32/git.cmd.com"
+      - "C:/Windows/System32/git.cmd.exe"
+      - "C:/Windows/System32/git.cmd"
+      - "C:/Windows/git.cmd.com"
+      - "C:/Windows/git.cmd.exe"
+      - "C:/Windows/git.cmd"
+      - "C:/Windows/System32/wbem/git.cmd.com"
+      - "C:/Windows/System32/wbem/git.cmd.exe"
+      - "C:/Windows/System32/wbem/git.cmd"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/git.cmd.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/git.cmd.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/git.cmd"
+      - "C:/Windows/System32/OpenSSH/git.cmd.com"
+      - "C:/Windows/System32/OpenSSH/git.cmd.exe"
+      - "C:/Windows/System32/OpenSSH/git.cmd"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/git.cmd.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/git.cmd.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/git.cmd"
+      - "C:/Program Files (x86)/ZeroTier/One/git.cmd.com"
+      - "C:/Program Files (x86)/ZeroTier/One/git.cmd.exe"
+      - "C:/Program Files (x86)/ZeroTier/One/git.cmd"
+      - "C:/Program Files/Git/cmd/git.cmd.com"
+      - "C:/Program Files/Git/cmd/git.cmd.exe"
+      - "C:/Program Files/Git/cmd/git.cmd"
+      - "C:/Program Files/PuTTY/git.cmd.com"
+      - "C:/Program Files/PuTTY/git.cmd.exe"
+      - "C:/Program Files/PuTTY/git.cmd"
+      - "C:/Program Files/MATLAB/R2023b/bin/git.cmd.com"
+      - "C:/Program Files/MATLAB/R2023b/bin/git.cmd.exe"
+      - "C:/Program Files/MATLAB/R2023b/bin/git.cmd"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/git.cmd.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/git.cmd.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/git.cmd"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/git.cmd.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/git.cmd.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/git.cmd"
+      - "C:/Program Files/CMake/bin/git.cmd.com"
+      - "C:/Program Files/CMake/bin/git.cmd.exe"
+      - "C:/Program Files/CMake/bin/git.cmd"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/git.cmd.com"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/git.cmd.exe"
+      - "C:/Program Files/Cloudflare/Cloudflare WARP/git.cmd"
+      - "C:/Program Files/Neovim/bin/git.cmd.com"
+      - "C:/Program Files/Neovim/bin/git.cmd.exe"
+      - "C:/Program Files/Neovim/bin/git.cmd"
+      - "C:/Users/Lithi/scoop/shims/git.cmd.com"
+      - "C:/Users/Lithi/scoop/shims/git.cmd.exe"
+      - "C:/Users/Lithi/scoop/shims/git.cmd"
+      - "C:/Users/Lithi/.cargo/bin/git.cmd.com"
+      - "C:/Users/Lithi/.cargo/bin/git.cmd.exe"
+      - "C:/Users/Lithi/.cargo/bin/git.cmd"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/git.cmd.com"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/git.cmd.exe"
+      - "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/git.cmd"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/git.cmd.com"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/git.cmd.exe"
+      - "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/bin/git.cmd"
+      - "C:/msys64/ucrt64/bin/git.cmd.com"
+      - "C:/msys64/ucrt64/bin/git.cmd.exe"
+      - "C:/msys64/ucrt64/bin/git.cmd"
+      - "C:/Users/Lithi/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/Scripts/git.cmd.com"
+      - "C:/Users/Lithi/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/Scripts/git.cmd.exe"
+      - "C:/Users/Lithi/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/Scripts/git.cmd"
+      - "C:/dev/vtk/install/bin/git.cmd.com"
+      - "C:/dev/vtk/install/bin/git.cmd.exe"
+      - "C:/dev/vtk/install/bin/git.cmd"
+      - "C:/Program Files/vcpkg/git.cmd.com"
+      - "C:/Program Files/vcpkg/git.cmd.exe"
+      - "C:/Program Files/vcpkg/git.cmd"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/git.cmd.com"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/git.cmd.exe"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/git.cmd"
+      - "C:/Program Files (x86)/GnuWin32/bin/git.cmd.com"
+      - "C:/Program Files (x86)/GnuWin32/bin/git.cmd.exe"
+      - "C:/Program Files (x86)/GnuWin32/bin/git.cmd"
+      - "C:/Program Files (x86)/clang+llvm-18.1.8-x86_64-pc-windows-msvc/bin/git.cmd.com"
+      - "C:/Program Files (x86)/clang+llvm-18.1.8-x86_64-pc-windows-msvc/bin/git.cmd.exe"
+      - "C:/Program Files (x86)/clang+llvm-18.1.8-x86_64-pc-windows-msvc/bin/git.cmd"
+      - "C:/Program Files/bin/git.cmd.com"
+      - "C:/Program Files/bin/git.cmd.exe"
+      - "C:/Program Files/bin/git.cmd"
+      - "C:/Program Files/sbin/git.cmd.com"
+      - "C:/Program Files/sbin/git.cmd.exe"
+      - "C:/Program Files/sbin/git.cmd"
+      - "C:/Program Files/git.cmd.com"
+      - "C:/Program Files/git.cmd.exe"
+      - "C:/Program Files/git.cmd"
+      - "C:/Program Files (x86)/bin/git.cmd.com"
+      - "C:/Program Files (x86)/bin/git.cmd.exe"
+      - "C:/Program Files (x86)/bin/git.cmd"
+      - "C:/Program Files (x86)/sbin/git.cmd.com"
+      - "C:/Program Files (x86)/sbin/git.cmd.exe"
+      - "C:/Program Files (x86)/sbin/git.cmd"
+      - "C:/Program Files (x86)/git.cmd.com"
+      - "C:/Program Files (x86)/git.cmd.exe"
+      - "C:/Program Files (x86)/git.cmd"
+      - "C:/Program Files/CMake/bin/git.cmd.com"
+      - "C:/Program Files/CMake/bin/git.cmd.exe"
+      - "C:/Program Files/CMake/bin/git.cmd"
+      - "C:/Program Files/CMake/sbin/git.cmd.com"
+      - "C:/Program Files/CMake/sbin/git.cmd.exe"
+      - "C:/Program Files/CMake/sbin/git.cmd"
+      - "C:/Program Files/CMake/git.cmd.com"
+      - "C:/Program Files/CMake/git.cmd.exe"
+      - "C:/Program Files/CMake/git.cmd"
+      - "C:/Program Files (x86)/cubedrawer/bin/git.cmd.com"
+      - "C:/Program Files (x86)/cubedrawer/bin/git.cmd.exe"
+      - "C:/Program Files (x86)/cubedrawer/bin/git.cmd"
+      - "C:/Program Files (x86)/cubedrawer/sbin/git.cmd.com"
+      - "C:/Program Files (x86)/cubedrawer/sbin/git.cmd.exe"
+      - "C:/Program Files (x86)/cubedrawer/sbin/git.cmd"
+      - "C:/Program Files (x86)/cubedrawer/git.cmd.com"
+      - "C:/Program Files (x86)/cubedrawer/git.cmd.exe"
+      - "C:/Program Files (x86)/cubedrawer/git.cmd"
+      - "C:/Users/Lithi/AppData/Local/Atlassian/SourceTree/git_local/bin/git.cmd.com"
+      - "C:/Users/Lithi/AppData/Local/Atlassian/SourceTree/git_local/bin/git.cmd.exe"
+      - "C:/Users/Lithi/AppData/Local/Atlassian/SourceTree/git_local/bin/git.cmd"
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/git.com"
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/git.exe"
+      - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin/git"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/git.com"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/git.exe"
+      - "C:/Program Files/VulkanSDK/1.4.335.0/Bin/git"
+      - "C:/Windows/System32/git.com"
+      - "C:/Windows/System32/git.exe"
+      - "C:/Windows/System32/git"
+      - "C:/Windows/git.com"
+      - "C:/Windows/git.exe"
+      - "C:/Windows/git"
+      - "C:/Windows/System32/wbem/git.com"
+      - "C:/Windows/System32/wbem/git.exe"
+      - "C:/Windows/System32/wbem/git"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/git.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/git.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/git"
+      - "C:/Windows/System32/OpenSSH/git.com"
+      - "C:/Windows/System32/OpenSSH/git.exe"
+      - "C:/Windows/System32/OpenSSH/git"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/git.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/git.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/git"
+      - "C:/Program Files (x86)/ZeroTier/One/git.com"
+      - "C:/Program Files (x86)/ZeroTier/One/git.exe"
+      - "C:/Program Files (x86)/ZeroTier/One/git"
+      - "C:/Program Files/Git/cmd/git.com"
+    found: "C:/Program Files/Git/cmd/git.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin"
+        - "C:\\Program Files\\VulkanSDK\\1.4.335.0\\Bin"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files (x86)\\ZeroTier\\One\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\MATLAB\\R2023b\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files\\Cloudflare\\Cloudflare WARP\\"
+        - "C:\\Program Files\\Neovim\\bin"
+        - "C:\\Users\\Lithi\\scoop\\shims"
+        - "C:\\Users\\Lithi\\.cargo\\bin"
+        - "C:\\Users\\Lithi\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Lithi\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\Users\\Lithi\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\Scripts"
+        - "C:\\dev\\vtk\\install\\bin"
+        - "C:\\Program Files\\vcpkg"
+        - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\MSBuild\\Current\\Bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
+        - "C:\\Program Files (x86)\\clang+llvm-18.1.8-x86_64-pc-windows-msvc\\bin"
+        - "C:\\Program Files\\Neovim\\bin"
+        - "C:\\Program Files\\Neovim\\bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/cubedrawer"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/cubedrawer"
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "libs/fastgltf/cmake/dependencies.cmake:6 (find_package)"
+      - "libs/fastgltf/CMakeLists.txt:40 (include)"
+    name: "simdjson"
+    configs:
+      -
+        filename: "simdjsonConfig.cmake"
+        kind: "cmake"
+      -
+        filename: "simdjson-config.cmake"
+        kind: "cmake"
+    version_request:
+      exact: false
+    settings:
+      required: "optional"
+      quiet: false
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "simdjson"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: true
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/pkgRedirects/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/pkgRedirects/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/AppData/Local/nvim-data/mason/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/AppData/Local/nvim-data/mason/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/VulkanSDK/1.4.335.0/Bin/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/VulkanSDK/1.4.335.0/Bin/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/ZeroTier/One/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/ZeroTier/One/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/PuTTY/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/PuTTY/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/MATLAB/R2023b/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/MATLAB/R2023b/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/CMake/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/CMake/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Cloudflare/Cloudflare WARP/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Cloudflare/Cloudflare WARP/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Neovim/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Neovim/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/scoop/shims/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/scoop/shims/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/.cargo/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/.cargo/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/Scripts/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/Scripts/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/dev/vtk/install/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/dev/vtk/install/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/vcpkg/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/vcpkg/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/GnuWin32/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/GnuWin32/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/clang+llvm-18.1.8-x86_64-pc-windows-msvc/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/clang+llvm-18.1.8-x86_64-pc-windows-msvc/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/CMake/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/CMake/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/simdjsonConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/simdjson-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+    found: null
+    search_context:
+      ENV{PATH}:
+        - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin"
+        - "C:\\Program Files\\VulkanSDK\\1.4.335.0\\Bin"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files (x86)\\ZeroTier\\One\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\MATLAB\\R2023b\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files\\Cloudflare\\Cloudflare WARP\\"
+        - "C:\\Program Files\\Neovim\\bin"
+        - "C:\\Users\\Lithi\\scoop\\shims"
+        - "C:\\Users\\Lithi\\.cargo\\bin"
+        - "C:\\Users\\Lithi\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Lithi\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\Users\\Lithi\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\Scripts"
+        - "C:\\dev\\vtk\\install\\bin"
+        - "C:\\Program Files\\vcpkg"
+        - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\MSBuild\\Current\\Bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
+        - "C:\\Program Files (x86)\\clang+llvm-18.1.8-x86_64-pc-windows-msvc\\bin"
+        - "C:\\Program Files\\Neovim\\bin"
+        - "C:\\Program Files\\Neovim\\bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/cubedrawer"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/cubedrawer"
+...
+
+---
+events:
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "libs/CMakeLists.txt:6 (find_package)"
+    name: "VulkanMemoryAllocator"
+    configs:
+      -
+        filename: "VulkanMemoryAllocatorConfig.cmake"
+        kind: "cmake"
+      -
+        filename: "vulkanmemoryallocator-config.cmake"
+        kind: "cmake"
+    version_request:
+      exact: false
+    settings:
+      required: "required_explicit"
+      quiet: false
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "VulkanMemoryAllocator"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: true
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/pkgRedirects/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/pkgRedirects/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/AppData/Local/nvim-data/mason/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/AppData/Local/nvim-data/mason/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/VulkanSDK/1.4.335.0/Bin/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/VulkanSDK/1.4.335.0/Bin/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/ZeroTier/One/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/ZeroTier/One/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/PuTTY/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/PuTTY/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/MATLAB/R2023b/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/MATLAB/R2023b/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/CMake/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/CMake/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Cloudflare/Cloudflare WARP/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Cloudflare/Cloudflare WARP/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Neovim/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Neovim/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/scoop/shims/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/scoop/shims/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/.cargo/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/.cargo/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/AppData/Local/Microsoft/WindowsApps/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/AppData/Local/Programs/Microsoft VS Code/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/msys64/ucrt64/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/Scripts/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/Lithi/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/Scripts/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/dev/vtk/install/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/dev/vtk/install/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/vcpkg/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/vcpkg/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/GnuWin32/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/GnuWin32/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/clang+llvm-18.1.8-x86_64-pc-windows-msvc/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/clang+llvm-18.1.8-x86_64-pc-windows-msvc/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/CMake/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/CMake/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/VulkanMemoryAllocatorConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/vulkanmemoryallocator-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+    found: null
+    search_context:
+      ENV{PATH}:
+        - "C:/Users/Lithi/AppData/Local/nvim-data/mason/bin"
+        - "C:\\Program Files\\VulkanSDK\\1.4.335.0\\Bin"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files (x86)\\ZeroTier\\One\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\MATLAB\\R2023b\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files\\Cloudflare\\Cloudflare WARP\\"
+        - "C:\\Program Files\\Neovim\\bin"
+        - "C:\\Users\\Lithi\\scoop\\shims"
+        - "C:\\Users\\Lithi\\.cargo\\bin"
+        - "C:\\Users\\Lithi\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Lithi\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\msys64\\ucrt64\\bin"
+        - "C:\\Users\\Lithi\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\Scripts"
+        - "C:\\dev\\vtk\\install\\bin"
+        - "C:\\Program Files\\vcpkg"
+        - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\MSBuild\\Current\\Bin"
+        - "C:\\Program Files (x86)\\GnuWin32\\bin"
+        - "C:\\Program Files (x86)\\clang+llvm-18.1.8-x86_64-pc-windows-msvc\\bin"
+        - "C:\\Program Files\\Neovim\\bin"
+        - "C:\\Program Files\\Neovim\\bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/cubedrawer"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/cubedrawer"
+...

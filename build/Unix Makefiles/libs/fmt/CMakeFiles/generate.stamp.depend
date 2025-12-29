@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCXXCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/GNUInstallDirs.cmake
+C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/cmake.verify_globs
+C:/Users/Lithi/Documents/cube/libs/fmt/CMakeLists.txt
+C:/Users/Lithi/Documents/cube/libs/fmt/support/cmake/JoinPaths.cmake

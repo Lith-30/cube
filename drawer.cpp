@@ -7,44 +7,41 @@
 
 GLFWwindow *window = NULL;
 
-void GLFW_KeyCallback(GLFWwindow *window, int key, int scancode, int action, int mods) {
-	if ((key == GLFW_KEY_ESCAPE) && (action == GLFW_PRESS)) {
-		glfwSetWindowShouldClose(window, GLFW_TRUE);
-	}
+void GLFW_KeyCallback(GLFWwindow *window, int key, int scancode, int action,
+                      int mods) {
+  if ((key == GLFW_KEY_ESCAPE) && (action == GLFW_PRESS)) {
+    glfwSetWindowShouldClose(window, GLFW_TRUE);
+  }
 }
 
 int main(int argc, char *argv[]) {
 
-	if (!glfwInit()) {
-		return EXIT_FAILURE;
-	}
+  if (!glfwInit()) {
+    return EXIT_FAILURE;
+  }
 
-	if (!glfwVulkanSupported()) {
-		return EXIT_FAILURE;
-	}
+  if (!glfwVulkanSupported()) {
+    return EXIT_FAILURE;
+  }
 
-	glfwWindowHint(GLFW_CLIENT_API, GLFW_NO_API);
-	glfwWindowHint(GLFW_RESIZABLE, GL_FALSE);
-	
-	window = glfwCreateWindow(WINDOW_WIDTH, WINDOW_HEIGHT, "First Window", NULL, NULL);
+  glfwWindowHint(GLFW_CLIENT_API, GLFW_NO_API);
+  glfwWindowHint(GLFW_RESIZABLE, GL_FALSE);
 
-	if (!window) {
-		glfwTerminate();
-		exit(EXIT_FAILURE);
-	}
+  window =
+      glfwCreateWindow(WINDOW_WIDTH, WINDOW_HEIGHT, "First Window", NULL, NULL);
 
-	glfwSetKeyCallback(window, GLFW_KeyCallback);
+  if (!window) {
+    glfwTerminate();
+    exit(EXIT_FAILURE);
+  }
 
-	while (!glfwWindowShouldClose(window)) {
-		glfwPollEvents();
-	}
+  glfwSetKeyCallback(window, GLFW_KeyCallback);
 
-	glfwTerminate();
+  while (!glfwWindowShouldClose(window)) {
+    glfwPollEvents();
+  }
 
-	return EXIT_SUCCESS;
+  glfwTerminate();
 
+  return EXIT_SUCCESS;
 }
-
-
-
-

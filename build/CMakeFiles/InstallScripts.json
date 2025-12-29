@@ -2,11 +2,17 @@
 	"InstallScripts" : 
 	[
 		"C:/Users/Lithi/Documents/cube/build/cmake_install.cmake",
+		"C:/Users/Lithi/Documents/cube/build/libs/cmake_install.cmake",
 		"C:/Users/Lithi/Documents/cube/build/libs/glfw/cmake_install.cmake",
 		"C:/Users/Lithi/Documents/cube/build/libs/glfw/src/cmake_install.cmake",
 		"C:/Users/Lithi/Documents/cube/build/libs/glfw/docs/cmake_install.cmake",
 		"C:/Users/Lithi/Documents/cube/build/libs/glm/cmake_install.cmake",
-		"C:/Users/Lithi/Documents/cube/build/libs/glm/glm/cmake_install.cmake"
+		"C:/Users/Lithi/Documents/cube/build/libs/glm/glm/cmake_install.cmake",
+		"C:/Users/Lithi/Documents/cube/build/libs/VulkanMemoryAllocator/cmake_install.cmake",
+		"C:/Users/Lithi/Documents/cube/build/libs/SDL/cmake_install.cmake",
+		"C:/Users/Lithi/Documents/cube/build/libs/vk-bootstrap/cmake_install.cmake",
+		"C:/Users/Lithi/Documents/cube/build/libs/fmt/cmake_install.cmake",
+		"C:/Users/Lithi/Documents/cube/build/libs/fastgltf/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

@@ -4,3 +4,24 @@
 [submodule "libs/glm"]
 	path = libs/glm
 	url = https://github.com/g-truc/glm.git
+[submodule "libs/VulkanMemoryAllocator"]
+	path = libs/VulkanMemoryAllocator
+	url = git@github.com:GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator.git
+[submodule "libs/vk-bootstrap"]
+	path = libs/vk-bootstrap
+	url = https://github.com/charles-lunarg/vk-bootstrap
+[submodule "libs/SDL"]
+	path = libs/SDL
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "libs/fmt"]
+	path = libs/fmt
+	url = git@github.com:fmtlib/fmt.git
+[submodule "libs/stb"]
+	path = libs/stb
+	url = git@github.com:nothings/stb.git
+[submodule "libs/imgui"]
+	path = libs/imgui
+	url = git@github.com:ocornut/imgui.git
+[submodule "libs/fastgltf"]
+	path = libs/fastgltf
+	url = git@github.com:spnda/fastgltf.git

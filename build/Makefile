@@ -158,6 +158,7 @@ preinstall/fast:
 
 # clear depends
 depend:
+	$(CMAKE_COMMAND) -P C:/Users/Lithi/Documents/cube/build/CMakeFiles/VerifyGlobs.cmake
 	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
@@ -226,6 +227,84 @@ glm/fast:
 	$(MAKE) $(MAKESILENT) -f libs/glm/glm/CMakeFiles/glm.dir/build.make libs/glm/glm/CMakeFiles/glm.dir/build
 .PHONY : glm/fast
 
+#=============================================================================
+# Target rules for targets named SDL3-static
+
+# Build rule for target.
+SDL3-static: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 SDL3-static
+.PHONY : SDL3-static
+
+# fast build rule for target.
+SDL3-static/fast:
+	$(MAKE) $(MAKESILENT) -f libs/SDL/CMakeFiles/SDL3-static.dir/build.make libs/SDL/CMakeFiles/SDL3-static.dir/build
+.PHONY : SDL3-static/fast
+
+#=============================================================================
+# Target rules for targets named SDL3_test
+
+# Build rule for target.
+SDL3_test: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 SDL3_test
+.PHONY : SDL3_test
+
+# fast build rule for target.
+SDL3_test/fast:
+	$(MAKE) $(MAKESILENT) -f libs/SDL/CMakeFiles/SDL3_test.dir/build.make libs/SDL/CMakeFiles/SDL3_test.dir/build
+.PHONY : SDL3_test/fast
+
+#=============================================================================
+# Target rules for targets named SDL_uclibc
+
+# Build rule for target.
+SDL_uclibc: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 SDL_uclibc
+.PHONY : SDL_uclibc
+
+# fast build rule for target.
+SDL_uclibc/fast:
+	$(MAKE) $(MAKESILENT) -f libs/SDL/CMakeFiles/SDL_uclibc.dir/build.make libs/SDL/CMakeFiles/SDL_uclibc.dir/build
+.PHONY : SDL_uclibc/fast
+
+#=============================================================================
+# Target rules for targets named vk-bootstrap
+
+# Build rule for target.
+vk-bootstrap: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vk-bootstrap
+.PHONY : vk-bootstrap
+
+# fast build rule for target.
+vk-bootstrap/fast:
+	$(MAKE) $(MAKESILENT) -f libs/vk-bootstrap/CMakeFiles/vk-bootstrap.dir/build.make libs/vk-bootstrap/CMakeFiles/vk-bootstrap.dir/build
+.PHONY : vk-bootstrap/fast
+
+#=============================================================================
+# Target rules for targets named fmt
+
+# Build rule for target.
+fmt: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 fmt
+.PHONY : fmt
+
+# fast build rule for target.
+fmt/fast:
+	$(MAKE) $(MAKESILENT) -f libs/fmt/CMakeFiles/fmt.dir/build.make libs/fmt/CMakeFiles/fmt.dir/build
+.PHONY : fmt/fast
+
+#=============================================================================
+# Target rules for targets named fastgltf
+
+# Build rule for target.
+fastgltf: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 fastgltf
+.PHONY : fastgltf
+
+# fast build rule for target.
+fastgltf/fast:
+	$(MAKE) $(MAKESILENT) -f libs/fastgltf/CMakeFiles/fastgltf.dir/build.make libs/fastgltf/CMakeFiles/fastgltf.dir/build
+.PHONY : fastgltf/fast
+
 drawer.obj: drawer.cpp.obj
 .PHONY : drawer.obj
 
@@ -264,9 +343,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... uninstall"
 	@echo "... update_mappings"
+	@echo "... SDL3-static"
+	@echo "... SDL3_test"
+	@echo "... SDL_uclibc"
 	@echo "... cubedrawer"
+	@echo "... fastgltf"
+	@echo "... fmt"
 	@echo "... glfw"
 	@echo "... glm"
+	@echo "... vk-bootstrap"
 	@echo "... drawer.obj"
 	@echo "... drawer.i"
 	@echo "... drawer.s"
@@ -281,6 +366,7 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
+	$(CMAKE_COMMAND) -P C:/Users/Lithi/Documents/cube/build/CMakeFiles/VerifyGlobs.cmake
 	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

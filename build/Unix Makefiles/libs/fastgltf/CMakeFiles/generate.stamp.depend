@@ -1,0 +1,12 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.1/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/cmake.verify_globs
+C:/Users/Lithi/Documents/cube/libs/fastgltf/CMakeLists.txt
+C:/Users/Lithi/Documents/cube/libs/fastgltf/cmake/add_source_directory.cmake
+C:/Users/Lithi/Documents/cube/libs/fastgltf/cmake/compilers.cmake
+C:/Users/Lithi/Documents/cube/libs/fastgltf/cmake/dependencies.cmake
