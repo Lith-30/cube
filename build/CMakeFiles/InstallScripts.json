@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Lithi/Documents/cube/build/cmake_install.cmake",
+		"C:/Users/Lithi/Documents/cube/build/libs/glfw/cmake_install.cmake",
+		"C:/Users/Lithi/Documents/cube/build/libs/glfw/src/cmake_install.cmake",
+		"C:/Users/Lithi/Documents/cube/build/libs/glfw/docs/cmake_install.cmake",
+		"C:/Users/Lithi/Documents/cube/build/libs/glm/cmake_install.cmake",
+		"C:/Users/Lithi/Documents/cube/build/libs/glm/glm/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

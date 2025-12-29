@@ -1,0 +1,15 @@
+C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/cubedrawer.dir
+C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/INSTALL.dir
+C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/ALL_BUILD.dir
+C:/Users/Lithi/Documents/cube/build/Unix Makefiles/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Lithi/Documents/cube/build/Unix Makefiles/libs/glfw/CMakeFiles/uninstall.dir
+C:/Users/Lithi/Documents/cube/build/Unix Makefiles/libs/glfw/CMakeFiles/INSTALL.dir
+C:/Users/Lithi/Documents/cube/build/Unix Makefiles/libs/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/Lithi/Documents/cube/build/Unix Makefiles/libs/glfw/src/CMakeFiles/glfw.dir
+C:/Users/Lithi/Documents/cube/build/Unix Makefiles/libs/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/Lithi/Documents/cube/build/Unix Makefiles/libs/glfw/src/CMakeFiles/INSTALL.dir
+C:/Users/Lithi/Documents/cube/build/Unix Makefiles/libs/glfw/docs/CMakeFiles/INSTALL.dir
+C:/Users/Lithi/Documents/cube/build/Unix Makefiles/libs/glm/CMakeFiles/INSTALL.dir
+C:/Users/Lithi/Documents/cube/build/Unix Makefiles/libs/glm/CMakeFiles/ALL_BUILD.dir
+C:/Users/Lithi/Documents/cube/build/Unix Makefiles/libs/glm/glm/CMakeFiles/glm.dir
+C:/Users/Lithi/Documents/cube/build/Unix Makefiles/libs/glm/glm/CMakeFiles/INSTALL.dir

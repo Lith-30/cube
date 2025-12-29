@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Lithi\Documents\cube\build\Unix Makefiles\CMakeFiles\e80c37a0c9d83706dfd329b137ba57ce\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B1377887-72BF-3A65-B5DD-C2D9F06C0E7A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

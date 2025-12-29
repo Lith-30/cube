@@ -1,0 +1,48 @@
+CMakeFiles/cubedrawer.dir/drawer.cpp.obj: \
+ C:/Users/Lithi/Documents/cube/drawer.cpp \
+ C:/Users/Lithi/Documents/cube/libs/glfw/include/GLFW/glfw3.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
+ C:/msys64/ucrt64/include/stddef.h C:/msys64/ucrt64/include/crtdefs.h \
+ C:/msys64/ucrt64/include/corecrt.h C:/msys64/ucrt64/include/_mingw.h \
+ C:/msys64/ucrt64/include/_mingw_mac.h \
+ C:/msys64/ucrt64/include/_mingw_secapi.h \
+ C:/msys64/ucrt64/include/vadefs.h \
+ C:/msys64/ucrt64/include/sdks/_mingw_ddk.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
+ C:/msys64/ucrt64/include/stdint.h \
+ C:/Program\ Files/VulkanSDK/1.4.335.0/include/vulkan/vulkan.h \
+ C:/Program\ Files/VulkanSDK/1.4.335.0/include/vulkan/vk_platform.h \
+ C:/Program\ Files/VulkanSDK/1.4.335.0/include/vulkan/vulkan_core.h \
+ C:/Program\ Files/VulkanSDK/1.4.335.0/include/vk_video/vulkan_video_codec_h264std.h \
+ C:/Program\ Files/VulkanSDK/1.4.335.0/include/vk_video/vulkan_video_codecs_common.h \
+ C:/Program\ Files/VulkanSDK/1.4.335.0/include/vk_video/vulkan_video_codec_h264std_encode.h \
+ C:/Program\ Files/VulkanSDK/1.4.335.0/include/vk_video/vulkan_video_codec_h264std.h \
+ C:/Program\ Files/VulkanSDK/1.4.335.0/include/vk_video/vulkan_video_codec_h265std.h \
+ C:/Program\ Files/VulkanSDK/1.4.335.0/include/vk_video/vulkan_video_codec_h265std_encode.h \
+ C:/Program\ Files/VulkanSDK/1.4.335.0/include/vk_video/vulkan_video_codec_h265std.h \
+ C:/Program\ Files/VulkanSDK/1.4.335.0/include/vk_video/vulkan_video_codec_h264std_decode.h \
+ C:/Program\ Files/VulkanSDK/1.4.335.0/include/vk_video/vulkan_video_codec_h265std_decode.h \
+ C:/Program\ Files/VulkanSDK/1.4.335.0/include/vk_video/vulkan_video_codec_av1std.h \
+ C:/Program\ Files/VulkanSDK/1.4.335.0/include/vk_video/vulkan_video_codec_av1std_decode.h \
+ C:/Program\ Files/VulkanSDK/1.4.335.0/include/vk_video/vulkan_video_codec_av1std.h \
+ C:/Program\ Files/VulkanSDK/1.4.335.0/include/vk_video/vulkan_video_codec_av1std_encode.h \
+ C:/Program\ Files/VulkanSDK/1.4.335.0/include/vk_video/vulkan_video_codec_vp9std.h \
+ C:/Program\ Files/VulkanSDK/1.4.335.0/include/vk_video/vulkan_video_codec_vp9std_decode.h \
+ C:/Program\ Files/VulkanSDK/1.4.335.0/include/vk_video/vulkan_video_codec_vp9std.h \
+ C:/msys64/ucrt64/include/GL/gl.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/cstdlib \
+ C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/os_defines.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/pstl/pstl_config.h \
+ C:/msys64/ucrt64/include/stdlib.h \
+ C:/msys64/ucrt64/include/corecrt_wstdlib.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
+ C:/msys64/ucrt64/include/limits.h \
+ C:/msys64/ucrt64/include/sec_api/stdlib_s.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/stdlib.h \
+ C:/msys64/ucrt64/include/malloc.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
+ C:/msys64/ucrt64/include/errno.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/std_abs.h
