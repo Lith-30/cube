@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/loadso/windows/SDL_sysloadso.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/loadso/windows/SDL_sysloadso.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\loadso\windows\SDL_sysloadso.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/_mingw.h \

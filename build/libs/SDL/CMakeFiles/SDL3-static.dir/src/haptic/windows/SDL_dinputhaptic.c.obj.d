@@ -1,8 +1,8 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/haptic/windows/SDL_dinputhaptic.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/haptic/windows/SDL_dinputhaptic.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\haptic\windows\SDL_dinputhaptic.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/haptic/SDL_syshaptic.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/haptic/windows/SDL_windowshaptic_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\haptic\windows\SDL_windowshaptic_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_directx.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/_mingw.h \
@@ -97,7 +97,7 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/haptic/windows/SDL_dinputhaptic.c.obj: \
  C:/msys64/ucrt64/include/float.h C:/msys64/ucrt64/include/dinput.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_xinput.h \
  C:/msys64/ucrt64/include/xinput.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/haptic/windows/SDL_dinputhaptic_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\haptic\windows\SDL_dinputhaptic_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/windows/SDL_windowsjoystick_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/SDL_sysjoystick.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/SDL_joystick_c.h \

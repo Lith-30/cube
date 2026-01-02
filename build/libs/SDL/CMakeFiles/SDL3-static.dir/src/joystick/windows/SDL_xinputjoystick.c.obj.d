@@ -1,9 +1,9 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/joystick/windows/SDL_xinputjoystick.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/windows/SDL_xinputjoystick.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\joystick\windows\SDL_xinputjoystick.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/SDL_sysjoystick.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/SDL_joystick_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/windows/SDL_windowsjoystick_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\joystick\windows\SDL_windowsjoystick_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/_mingw.h \
  C:/msys64/ucrt64/include/sdkddkver.h C:/msys64/ucrt64/include/excpt.h \
@@ -97,9 +97,9 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/joystick/windows/SDL_xinputjoystick.c.ob
  C:/msys64/ucrt64/include/dsound.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/float.h \
  C:/msys64/ucrt64/include/float.h C:/msys64/ucrt64/include/dinput.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/windows/SDL_xinputjoystick_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\joystick\windows\SDL_xinputjoystick_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_xinput.h \
  C:/msys64/ucrt64/include/xinput.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/windows/SDL_rawinputjoystick_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\joystick\windows\SDL_rawinputjoystick_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/hidapi/SDL_hidapijoystick_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/usb_ids.h

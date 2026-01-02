@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/render/direct3d12/SDL_shaders_d3d12.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/direct3d12/SDL_shaders_d3d12.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\direct3d12\SDL_shaders_d3d12.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/_mingw.h \
@@ -92,13 +92,13 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/render/direct3d12/SDL_shaders_d3d12.c.ob
  C:/msys64/ucrt64/include/dxgi1_4.h C:/msys64/ucrt64/include/dxgi1_3.h \
  C:/msys64/ucrt64/include/dxgi1_2.h C:/msys64/ucrt64/include/dxgi.h \
  C:/msys64/ucrt64/include/dxgitype.h C:/msys64/ucrt64/include/dxgidebug.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/direct3d12/SDL_shaders_d3d12.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/direct3d12/D3D12_PixelShader_Colors.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/direct3d12/D3D12_PixelShader_Textures.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/direct3d12/D3D12_PixelShader_Advanced.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/direct3d12/D3D12_VertexShader_Color.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/direct3d12/D3D12_VertexShader_Texture.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/direct3d12/D3D12_VertexShader_Advanced.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/direct3d12/D3D12_RootSig_Color.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/direct3d12/D3D12_RootSig_Texture.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/direct3d12/D3D12_RootSig_Advanced.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\direct3d12\SDL_shaders_d3d12.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\direct3d12\D3D12_PixelShader_Colors.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\direct3d12\D3D12_PixelShader_Textures.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\direct3d12\D3D12_PixelShader_Advanced.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\direct3d12\D3D12_VertexShader_Color.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\direct3d12\D3D12_VertexShader_Texture.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\direct3d12\D3D12_VertexShader_Advanced.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\direct3d12\D3D12_RootSig_Color.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\direct3d12\D3D12_RootSig_Texture.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\direct3d12\D3D12_RootSig_Advanced.h

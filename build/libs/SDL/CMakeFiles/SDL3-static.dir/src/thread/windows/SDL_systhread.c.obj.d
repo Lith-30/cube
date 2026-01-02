@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/thread/windows/SDL_systhread.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/thread/windows/SDL_systhread.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\thread\windows\SDL_systhread.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/thread/SDL_thread_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/thread/windows/SDL_systhread_c.h \
@@ -74,4 +74,4 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/thread/windows/SDL_systhread.c.obj: \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/thread/SDL_systhread.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/thread/SDL_thread_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/thread/windows/SDL_systhread_c.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\thread\windows\SDL_systhread_c.h

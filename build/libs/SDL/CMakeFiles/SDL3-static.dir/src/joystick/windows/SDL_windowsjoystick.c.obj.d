@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/joystick/windows/SDL_windowsjoystick.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/windows/SDL_windowsjoystick.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\joystick\windows\SDL_windowsjoystick.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/SDL_sysjoystick.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/SDL_joystick_c.h \
@@ -79,7 +79,7 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/joystick/windows/SDL_windowsjoystick.c.o
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_hid.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
  C:/msys64/ucrt64/include/dbt.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/windows/SDL_windowsjoystick_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\joystick\windows\SDL_windowsjoystick_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_directx.h \
  C:/msys64/ucrt64/include/mmsystem.h C:/msys64/ucrt64/include/mmsyscom.h \
  C:/msys64/ucrt64/include/mciapi.h C:/msys64/ucrt64/include/mmiscapi.h \
@@ -104,11 +104,11 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/joystick/windows/SDL_windowsjoystick.c.o
  C:/msys64/ucrt64/include/dsound.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/float.h \
  C:/msys64/ucrt64/include/float.h C:/msys64/ucrt64/include/dinput.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/windows/SDL_dinputjoystick_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/windows/SDL_xinputjoystick_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\joystick\windows\SDL_dinputjoystick_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\joystick\windows\SDL_xinputjoystick_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_xinput.h \
  C:/msys64/ucrt64/include/xinput.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/windows/SDL_rawinputjoystick_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\joystick\windows\SDL_rawinputjoystick_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/haptic/windows/SDL_dinputhaptic_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/haptic/windows/SDL_windowshaptic_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/haptic/SDL_syshaptic.h \

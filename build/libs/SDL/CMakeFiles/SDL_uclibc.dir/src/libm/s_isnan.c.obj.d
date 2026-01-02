@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL_uclibc.dir/src/libm/s_isnan.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/libm/s_isnan.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\libm\s_isnan.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/build/libs/SDL/include-config-/build_config/SDL_build_config.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_platform_defines.h \
@@ -207,4 +207,4 @@ libs/SDL/CMakeFiles/SDL_uclibc.dir/src/libm/s_isnan.c.obj: \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_main.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_utils_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_hashtable.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/libm/math_private.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\libm\math_private.h

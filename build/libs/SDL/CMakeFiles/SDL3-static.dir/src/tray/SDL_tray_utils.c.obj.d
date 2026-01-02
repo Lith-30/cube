@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/tray/SDL_tray_utils.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/tray/SDL_tray_utils.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\tray\SDL_tray_utils.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_sysvideo.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_vulkan.h \
@@ -22,4 +22,4 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/tray/SDL_tray_utils.c.obj: \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/events/SDL_pen_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/events/SDL_windowevents_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/tray/SDL_tray_utils.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\tray\SDL_tray_utils.h

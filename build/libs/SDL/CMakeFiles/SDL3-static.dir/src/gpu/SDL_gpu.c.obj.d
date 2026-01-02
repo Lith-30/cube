@@ -1,7 +1,7 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/gpu/SDL_gpu.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/gpu/SDL_gpu.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\gpu\SDL_gpu.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/gpu/SDL_sysgpu.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\gpu\SDL_sysgpu.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_sysvideo.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_vulkan.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_stdinc.h \

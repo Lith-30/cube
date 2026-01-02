@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/render/vulkan/SDL_render_vulkan.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/vulkan/SDL_render_vulkan.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\vulkan\SDL_render_vulkan.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_vulkan_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
@@ -102,4 +102,4 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/render/vulkan/SDL_render_vulkan.c.obj: \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/render/SDL_yuv_sw_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/render/SDL_d3dmath.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_pixels_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/vulkan/SDL_shaders_vulkan.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\vulkan\SDL_shaders_vulkan.h

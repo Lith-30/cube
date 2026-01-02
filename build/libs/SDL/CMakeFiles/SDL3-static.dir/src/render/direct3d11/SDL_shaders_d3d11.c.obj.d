@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/render/direct3d11/SDL_shaders_d3d11.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/direct3d11/SDL_shaders_d3d11.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\direct3d11\SDL_shaders_d3d11.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/_mingw.h \
@@ -98,8 +98,8 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/render/direct3d11/SDL_shaders_d3d11.c.ob
  C:/msys64/ucrt64/include/d3d11sdklayers.h \
  C:/msys64/ucrt64/include/d3d10misc.h \
  C:/msys64/ucrt64/include/d3d10effect.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/direct3d11/SDL_shaders_d3d11.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/direct3d11/D3D11_PixelShader_Colors.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/direct3d11/D3D11_PixelShader_Textures.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/direct3d11/D3D11_PixelShader_Advanced.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/direct3d11/D3D11_VertexShader.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\direct3d11\SDL_shaders_d3d11.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\direct3d11\D3D11_PixelShader_Colors.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\direct3d11\D3D11_PixelShader_Textures.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\direct3d11\D3D11_PixelShader_Advanced.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\direct3d11\D3D11_VertexShader.h

@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/video/offscreen/SDL_offscreenframebuffer.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/offscreen/SDL_offscreenframebuffer.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\offscreen\SDL_offscreenframebuffer.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_sysvideo.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_vulkan.h \
@@ -11,4 +11,4 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/video/offscreen/SDL_offscreenframebuffer
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_surface_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_blit.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_properties_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/offscreen/SDL_offscreenframebuffer_c.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\offscreen\SDL_offscreenframebuffer_c.h

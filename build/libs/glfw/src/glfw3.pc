@@ -1,7 +1,7 @@
-prefix=C:/Program Files (x86)/cube
+prefix=C:/Program Files (x86)/cubedrawer
 exec_prefix=${prefix}
-includedir=C:/Program Files (x86)/cube/include
-libdir=C:/Program Files (x86)/cube/lib
+includedir=C:/Program Files (x86)/cubedrawer/include
+libdir=C:/Program Files (x86)/cubedrawer/lib
 
 Name: GLFW
 Description: A multi-platform library for OpenGL, window and input

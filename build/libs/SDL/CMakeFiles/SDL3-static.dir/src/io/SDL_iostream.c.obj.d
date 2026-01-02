@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/io/SDL_iostream.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/io/SDL_iostream.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\io\SDL_iostream.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/_mingw.h \
@@ -74,4 +74,4 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/io/SDL_iostream.c.obj: \
  C:/msys64/ucrt64/include/sys/types.h \
  C:/msys64/ucrt64/include/_mingw_stat64.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/io/SDL_iostream_c.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\io\SDL_iostream_c.h

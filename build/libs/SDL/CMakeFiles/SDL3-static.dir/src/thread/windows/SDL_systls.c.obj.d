@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/thread/windows/SDL_systls.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/thread/windows/SDL_systls.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\thread\windows\SDL_systls.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/_mingw.h \
@@ -70,5 +70,6 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/thread/windows/SDL_systls.c.obj: \
  C:/msys64/ucrt64/include/mmreg.h C:/msys64/ucrt64/include/pshpack1.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/thread/SDL_thread_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/thread/windows/SDL_systhread_c.h \
+ C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_error_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h

@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/tray/windows/SDL_tray.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/tray/windows/SDL_tray.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\tray\windows\SDL_tray.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/tray/SDL_tray_utils.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \

@@ -1,6 +1,6 @@
 libs/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/glfw/src/null_window.c \
- C:/Users/Lithi/Documents/cube/libs/glfw/src/internal.h \
+ C:\Users\Lithi\Documents\cube\libs\glfw\src\null_window.c \
+ C:\Users\Lithi\Documents\cube\libs\glfw\src\internal.h \
  C:/Users/Lithi/Documents/cube/libs/glfw/include/GLFW/glfw3.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
  C:/msys64/ucrt64/include/stddef.h C:/msys64/ucrt64/include/crtdefs.h \
@@ -12,9 +12,9 @@ libs/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj: \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
  C:/msys64/ucrt64/include/stdint.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
- C:/Users/Lithi/Documents/cube/libs/glfw/src/platform.h \
- C:/Users/Lithi/Documents/cube/libs/glfw/src/null_platform.h \
- C:/Users/Lithi/Documents/cube/libs/glfw/src/win32_platform.h \
+ C:\Users\Lithi\Documents\cube\libs\glfw\src\platform.h \
+ C:\Users\Lithi\Documents\cube\libs\glfw\src\null_platform.h \
+ C:\Users\Lithi\Documents\cube\libs\glfw\src\win32_platform.h \
  C:/msys64/ucrt64/include/wctype.h C:/msys64/ucrt64/include/windows.h \
  C:/msys64/ucrt64/include/sdkddkver.h C:/msys64/ucrt64/include/excpt.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
@@ -203,8 +203,8 @@ libs/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj: \
  C:/msys64/ucrt64/include/dinput.h \
  C:/msys64/ucrt64/include/_mingw_dxhelper.h \
  C:/msys64/ucrt64/include/xinput.h C:/msys64/ucrt64/include/dbt.h \
- C:/Users/Lithi/Documents/cube/libs/glfw/src/null_joystick.h \
- C:/Users/Lithi/Documents/cube/libs/glfw/src/win32_joystick.h \
- C:/Users/Lithi/Documents/cube/libs/glfw/src/win32_thread.h \
- C:/Users/Lithi/Documents/cube/libs/glfw/src/win32_time.h \
+ C:\Users\Lithi\Documents\cube\libs\glfw\src\null_joystick.h \
+ C:\Users\Lithi\Documents\cube\libs\glfw\src\win32_joystick.h \
+ C:\Users\Lithi\Documents\cube\libs\glfw\src\win32_thread.h \
+ C:\Users\Lithi\Documents\cube\libs\glfw\src\win32_time.h \
  C:/Users/Lithi/Documents/cube/libs/glfw/include/GLFW/glfw3native.h

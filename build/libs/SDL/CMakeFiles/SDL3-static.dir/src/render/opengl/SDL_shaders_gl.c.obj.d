@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/render/opengl/SDL_shaders_gl.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/opengl/SDL_shaders_gl.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\opengl\SDL_shaders_gl.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_opengl.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_platform.h \
@@ -70,4 +70,4 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/render/opengl/SDL_shaders_gl.c.obj: \
  C:/msys64/ucrt64/include/imm.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_opengl_glext.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/opengl/SDL_shaders_gl.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\opengl\SDL_shaders_gl.h

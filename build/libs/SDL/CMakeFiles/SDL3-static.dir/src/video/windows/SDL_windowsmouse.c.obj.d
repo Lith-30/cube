@@ -1,7 +1,7 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/video/windows/SDL_windowsmouse.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/windows/SDL_windowsmouse.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\windows\SDL_windowsmouse.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/windows/SDL_windowsvideo.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\windows\SDL_windowsvideo.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/_mingw.h \
  C:/msys64/ucrt64/include/sdkddkver.h C:/msys64/ucrt64/include/excpt.h \
@@ -96,16 +96,16 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/video/windows/SDL_windowsmouse.c.obj: \
  C:/msys64/ucrt64/include/ocidl.h C:/msys64/ucrt64/include/dxgitype.h \
  C:/msys64/ucrt64/include/dxgicommon.h \
  C:/msys64/ucrt64/include/dxgiformat.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/windows/SDL_msctf.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/windows/SDL_windowsclipboard.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/windows/SDL_windowsevents.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/windows/SDL_windowsgameinput.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/windows/SDL_windowsopengl.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/windows/SDL_windowsshape.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/windows/SDL_windowskeyboard.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/windows/SDL_windowsmodes.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/windows/SDL_windowsmouse.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/windows/SDL_windowsopengles.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\windows\SDL_msctf.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\windows\SDL_windowsclipboard.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\windows\SDL_windowsevents.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\windows\SDL_windowsgameinput.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\windows\SDL_windowsopengl.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\windows\SDL_windowsshape.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\windows\SDL_windowskeyboard.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\windows\SDL_windowsmodes.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\windows\SDL_windowsmouse.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\windows\SDL_windowsopengles.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_egl_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_egl.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_platform_defines.h \
@@ -115,10 +115,10 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/video/windows/SDL_windowsmouse.c.obj: \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/khronos/EGL/eglext.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_sysvideo.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/windows/SDL_windowswindow.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\windows\SDL_windowswindow.h \
  C:/msys64/ucrt64/include/shellscalingapi.h \
  C:/msys64/ucrt64/include/shtypes.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/windows/SDL_windowsrawinput.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\windows\SDL_windowsrawinput.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_video_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/events/SDL_mouse_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/usb_ids.h

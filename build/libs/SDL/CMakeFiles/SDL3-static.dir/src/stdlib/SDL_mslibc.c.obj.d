@@ -1,3 +1,3 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/stdlib/SDL_mslibc.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/stdlib/SDL_mslibc.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\stdlib\SDL_mslibc.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h

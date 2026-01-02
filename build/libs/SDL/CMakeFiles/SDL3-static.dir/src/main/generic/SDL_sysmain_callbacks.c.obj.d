@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/main/generic/SDL_sysmain_callbacks.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/main/generic/SDL_sysmain_callbacks.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\main\generic\SDL_sysmain_callbacks.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/main/SDL_main_callbacks.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_sysvideo.h \

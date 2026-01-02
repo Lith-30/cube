@@ -1,8 +1,8 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/SDL.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL.c \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\SDL.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\SDL_internal.h \
  C:/Users/Lithi/Documents/cube/build/libs/SDL/include-revision/SDL3/SDL_revision.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\core/windows/SDL_windows.h \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/_mingw.h \
  C:/msys64/ucrt64/include/sdkddkver.h C:/msys64/ucrt64/include/excpt.h \
  C:/msys64/ucrt64/include/crtdefs.h \
@@ -69,17 +69,17 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/SDL.c.obj: \
  C:/msys64/ucrt64/include/winsvc.h C:/msys64/ucrt64/include/mcx.h \
  C:/msys64/ucrt64/include/imm.h C:/msys64/ucrt64/include/basetyps.h \
  C:/msys64/ucrt64/include/mmreg.h C:/msys64/ucrt64/include/pshpack1.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/core/linux/SDL_dbus.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\core/linux/SDL_dbus.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_assert_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_hints_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_log_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_properties_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/audio/SDL_sysaudio.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/camera/SDL_camera_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\SDL_assert_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\SDL_hints_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\SDL_log_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\SDL_properties_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\audio/SDL_sysaudio.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\camera/SDL_camera_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/cpuinfo/SDL_cpuinfo_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/events/SDL_events_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\cpuinfo/SDL_cpuinfo_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\events/SDL_events_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_sysvideo.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_vulkan.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_stdinc.h \
@@ -89,33 +89,35 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/SDL.c.obj: \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_close_code.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_surface_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_blit.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/events/SDL_clipboardevents_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/events/SDL_displayevents_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/events/SDL_dropevents_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/events/SDL_keyboard_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/events/SDL_keymap_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/events/SDL_mouse_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/events/SDL_touch_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/events/SDL_pen_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\events/SDL_clipboardevents_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\events/SDL_displayevents_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\events/SDL_dropevents_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\events/SDL_keyboard_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\events/SDL_keymap_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\events/SDL_mouse_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\events/SDL_touch_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\events/SDL_pen_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/events/SDL_windowevents_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/haptic/SDL_haptic_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/SDL_gamepad_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/SDL_joystick_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/SDL_sysrender.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\events/SDL_windowevents_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\haptic/SDL_haptic_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\joystick/SDL_gamepad_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\joystick/SDL_joystick_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render/SDL_sysrender.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_surface_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/SDL_yuv_sw_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/sensor/SDL_sensor_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/stdlib/SDL_getenv_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/thread/SDL_thread_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/thread/windows/SDL_systhread_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render/SDL_yuv_sw_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\sensor/SDL_sensor_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\stdlib/SDL_getenv_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\thread/SDL_thread_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\thread/windows/SDL_systhread_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_error_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/tray/SDL_tray_utils.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_pixels_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_surface_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_video_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/filesystem/SDL_filesystem_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/io/SDL_asyncio_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/timer/SDL_timer_c.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\tray/SDL_tray_utils.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video/SDL_pixels_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video/SDL_blit.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video/SDL_surface_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video/SDL_video_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\filesystem/SDL_filesystem_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\io/SDL_asyncio_c.h \
+ C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\timer/SDL_timer_c.h

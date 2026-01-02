@@ -1,9 +1,9 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/dynapi/SDL_dynapi.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/dynapi/SDL_dynapi.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\dynapi\SDL_dynapi.c \
  C:/Users/Lithi/Documents/cube/build/libs/SDL/include-config-/build_config/SDL_build_config.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_platform_defines.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/dynapi/SDL_dynapi.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/dynapi/SDL_dynapi_unsupported.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\dynapi\SDL_dynapi.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\dynapi\SDL_dynapi_unsupported.h \
  C:/msys64/ucrt64/include/stdio.h \
  C:/msys64/ucrt64/include/corecrt_stdio_config.h \
  C:/msys64/ucrt64/include/corecrt.h C:/msys64/ucrt64/include/_mingw.h \
@@ -257,4 +257,4 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/dynapi/SDL_dynapi.c.obj: \
  C:/msys64/ucrt64/include/sec_api/stralign_s.h \
  C:/msys64/ucrt64/include/winsvc.h C:/msys64/ucrt64/include/mcx.h \
  C:/msys64/ucrt64/include/imm.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/dynapi/SDL_dynapi_procs.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\dynapi\SDL_dynapi_procs.h

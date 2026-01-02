@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/filesystem/windows/SDL_sysfilesystem.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/filesystem/windows/SDL_sysfilesystem.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\filesystem\windows\SDL_sysfilesystem.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/filesystem/SDL_sysfilesystem.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \

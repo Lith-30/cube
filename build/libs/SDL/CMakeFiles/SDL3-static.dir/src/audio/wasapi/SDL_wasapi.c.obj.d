@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/audio/wasapi/SDL_wasapi.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/audio/wasapi/SDL_wasapi.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\audio\wasapi\SDL_wasapi.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/_mingw.h \
@@ -98,4 +98,4 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/audio/wasapi/SDL_wasapi.c.obj: \
  C:/msys64/ucrt64/include/audioclient.h \
  C:/msys64/ucrt64/include/audiosessiontypes.h \
  C:/msys64/ucrt64/include/ks.h C:/msys64/ucrt64/include/ksmedia.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/audio/wasapi/SDL_wasapi.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\audio\wasapi\SDL_wasapi.h

@@ -8,7 +8,13 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/Lithi/Documents/cube/drawer.cpp" "CMakeFiles/cubedrawer.dir/drawer.cpp.obj" "gcc" "CMakeFiles/cubedrawer.dir/drawer.cpp.obj.d"
+  "C:/Users/Lithi/Documents/cube/main.cpp" "CMakeFiles/cubedrawer.dir/main.cpp.obj" "gcc" "CMakeFiles/cubedrawer.dir/main.cpp.obj.d"
+  "C:/Users/Lithi/Documents/cube/vk_descriptors.cpp" "CMakeFiles/cubedrawer.dir/vk_descriptors.cpp.obj" "gcc" "CMakeFiles/cubedrawer.dir/vk_descriptors.cpp.obj.d"
+  "C:/Users/Lithi/Documents/cube/vk_engine.cpp" "CMakeFiles/cubedrawer.dir/vk_engine.cpp.obj" "gcc" "CMakeFiles/cubedrawer.dir/vk_engine.cpp.obj.d"
+  "C:/Users/Lithi/Documents/cube/vk_images.cpp" "CMakeFiles/cubedrawer.dir/vk_images.cpp.obj" "gcc" "CMakeFiles/cubedrawer.dir/vk_images.cpp.obj.d"
+  "C:/Users/Lithi/Documents/cube/vk_initalisers.cpp" "CMakeFiles/cubedrawer.dir/vk_initalisers.cpp.obj" "gcc" "CMakeFiles/cubedrawer.dir/vk_initalisers.cpp.obj.d"
+  "C:/Users/Lithi/Documents/cube/vk_loader.cpp" "CMakeFiles/cubedrawer.dir/vk_loader.cpp.obj" "gcc" "CMakeFiles/cubedrawer.dir/vk_loader.cpp.obj.d"
+  "C:/Users/Lithi/Documents/cube/vk_pipelines.cpp" "CMakeFiles/cubedrawer.dir/vk_pipelines.cpp.obj" "gcc" "CMakeFiles/cubedrawer.dir/vk_pipelines.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -1,11 +1,11 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/camera/SDL_camera.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/camera/SDL_camera.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\camera\SDL_camera.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/camera/SDL_syscamera.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\camera\SDL_syscamera.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_surface_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_blit.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/camera/SDL_camera_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\camera\SDL_camera_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_pixels_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/thread/SDL_systhread.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/thread/SDL_thread_c.h \

@@ -1,11 +1,11 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/hidapi/SDL_hidapi.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/hidapi/SDL_hidapi.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\hidapi\SDL_hidapi.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/hidapi/SDL_hidapi_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\hidapi\SDL_hidapi_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/usb_ids.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_hints_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/hidapi/hidapi/hidapi.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\hidapi\hidapi/hidapi.h \
  C:/msys64/ucrt64/include/wchar.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/_mingw.h \
@@ -76,16 +76,16 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/hidapi/SDL_hidapi.c.obj: \
  C:/msys64/ucrt64/include/mmreg.h C:/msys64/ucrt64/include/pshpack1.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/linux/SDL_udev.h \
  C:/msys64/ucrt64/include/initguid.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/hidapi/SDL_hidapi_windows.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/hidapi/windows/hid.c \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/hidapi/windows/hidapi_winapi.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\hidapi\SDL_hidapi_windows.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\hidapi\windows/hid.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\hidapi\windows/hidapi_winapi.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/hidapi/hidapi/hidapi.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/hidapi/windows/hidapi_cfgmgr32.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\hidapi\windows/hidapi_cfgmgr32.h \
  C:/msys64/ucrt64/include/devpropdef.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/hidapi/windows/hidapi_hidclass.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\hidapi\windows/hidapi_hidclass.h \
  C:/msys64/ucrt64/include/winioctl.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/hidapi/windows/hidapi_hidsdi.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/hidapi/windows/hidapi_hidpi.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/hidapi/windows/hidapi_descriptor_reconstruct.c \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/hidapi/windows/hidapi_descriptor_reconstruct.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\hidapi\windows/hidapi_hidsdi.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\hidapi\windows/hidapi_hidpi.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\hidapi\windows/hidapi_descriptor_reconstruct.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\hidapi\windows/hidapi_descriptor_reconstruct.h

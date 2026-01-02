@@ -1,2 +1,2 @@
-C:/msys64/ucrt64/bin/ar.exe qc libfastgltf.a CMakeFiles/fastgltf.dir/src/fastgltf.cpp.obj CMakeFiles/fastgltf.dir/src/base64.cpp.obj CMakeFiles/fastgltf.dir/src/io.cpp.obj CMakeFiles/fastgltf.dir/deps/simdjson/simdjson.cpp.obj
-C:/msys64/ucrt64/bin/ranlib.exe libfastgltf.a
+C:\msys64\ucrt64\bin\ar.exe qc libfastgltf.a CMakeFiles/fastgltf.dir/src/fastgltf.cpp.obj CMakeFiles/fastgltf.dir/src/base64.cpp.obj CMakeFiles/fastgltf.dir/src/io.cpp.obj CMakeFiles/fastgltf.dir/deps/simdjson/simdjson.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libfastgltf.a

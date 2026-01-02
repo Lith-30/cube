@@ -1,13 +1,14 @@
 libs/fastgltf/CMakeFiles/fastgltf.dir/src/base64.cpp.obj: \
- C:/Users/Lithi/Documents/cube/libs/fastgltf/src/base64.cpp \
+ C:\Users\Lithi\Documents\cube\libs\fastgltf\src\base64.cpp \
  C:/msys64/ucrt64/include/c++/13.2.0/array \
  C:/msys64/ucrt64/include/c++/13.2.0/compare \
- C:/msys64/ucrt64/include/c++/13.2.0/initializer_list \
+ C:/msys64/ucrt64/include/c++/13.2.0/concepts \
+ C:/msys64/ucrt64/include/c++/13.2.0/type_traits \
  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/os_defines.h \
  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
  C:/msys64/ucrt64/include/c++/13.2.0/pstl/pstl_config.h \
- C:/msys64/ucrt64/include/c++/13.2.0/type_traits \
+ C:/msys64/ucrt64/include/c++/13.2.0/initializer_list \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/functexcept.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/exception_defines.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_algobase.h \
@@ -18,11 +19,16 @@ libs/fastgltf/CMakeFiles/fastgltf.dir/src/base64.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/move.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/utility.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator_base_types.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/iterator_concepts.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/ptr_traits.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_cmp.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator_base_funcs.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/concept_check.h \
  C:/msys64/ucrt64/include/c++/13.2.0/debug/assertions.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/ptr_traits.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/new \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/exception.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_construct.h \
  C:/msys64/ucrt64/include/c++/13.2.0/debug/debug.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/predefined_ops.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bit \
@@ -66,12 +72,14 @@ libs/fastgltf/CMakeFiles/fastgltf.dir/src/base64.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/tuple \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/uses_allocator.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/invoke.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_util.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_base.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/max_size_type.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/numbers \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/functional_hash.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/hash_bytes.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/refwrap.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/std_function.h \
- C:/msys64/ucrt64/include/c++/13.2.0/new \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/exception.h \
  C:/msys64/ucrt64/include/c++/13.2.0/typeinfo \
  C:/msys64/ucrt64/include/c++/13.2.0/unordered_map \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/unordered_map.h \
@@ -80,7 +88,6 @@ libs/fastgltf/CMakeFiles/fastgltf.dir/src/base64.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/ext/aligned_buffer.h \
  C:/msys64/ucrt64/include/c++/13.2.0/ext/alloc_traits.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/alloc_traits.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_construct.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/memoryfwd.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/allocator.h \
  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++allocator.h \
@@ -108,6 +115,8 @@ libs/fastgltf/CMakeFiles/fastgltf.dir/src/base64.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/cassert \
  C:/msys64/ucrt64/include/assert.h \
  C:/msys64/ucrt64/include/c++/13.2.0/version \
+ C:/msys64/ucrt64/include/c++/13.2.0/utility \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_relops.h \
  C:/msys64/ucrt64/include/c++/13.2.0/cstdint \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
  C:/msys64/ucrt64/include/stdint.h \
@@ -189,6 +198,8 @@ libs/fastgltf/CMakeFiles/fastgltf.dir/src/base64.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/atomic \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/atomic_base.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/atomic_lockfree_defines.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/atomic_wait.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/std_mutex.h \
  C:/msys64/ucrt64/include/c++/13.2.0/memory \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_raw_storage_iter.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/align.h \
@@ -199,6 +210,8 @@ libs/fastgltf/CMakeFiles/fastgltf.dir/src/base64.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/ext/concurrence.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/shared_ptr_atomic.h \
  C:/msys64/ucrt64/include/c++/13.2.0/backward/auto_ptr.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_uninitialized.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_algobase.h \
  C:/msys64/ucrt64/include/c++/13.2.0/pstl/glue_memory_defs.h \
  C:/msys64/ucrt64/include/c++/13.2.0/pstl/execution_defs.h \
  C:/msys64/ucrt64/include/c++/13.2.0/cstring \
@@ -206,19 +219,26 @@ libs/fastgltf/CMakeFiles/fastgltf.dir/src/base64.cpp.obj: \
  C:/msys64/ucrt64/include/sec_api/string_s.h \
  C:/msys64/ucrt64/include/c++/13.2.0/sstream \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/sstream.tcc \
+ C:/msys64/ucrt64/include/c++/13.2.0/ranges \
+ C:/msys64/ucrt64/include/c++/13.2.0/iterator \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/stream_iterator.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/optional \
+ C:/msys64/ucrt64/include/c++/13.2.0/span \
  C:/msys64/ucrt64/include/c++/13.2.0/thread \
+ C:/msys64/ucrt64/include/c++/13.2.0/stop_token \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/std_thread.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/this_thread_sleep.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/semaphore \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/semaphore_base.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/chrono.h \
  C:/msys64/ucrt64/include/c++/13.2.0/ratio \
  C:/msys64/ucrt64/include/c++/13.2.0/ctime \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/parse_numbers.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/atomic_timed_wait.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/this_thread_sleep.h \
+ C:/msys64/ucrt64/include/semaphore.h \
  C:/msys64/ucrt64/include/c++/13.2.0/mutex \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/std_mutex.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/unique_lock.h \
  C:/msys64/ucrt64/include/c++/13.2.0/condition_variable \
- C:/msys64/ucrt64/include/c++/13.2.0/utility \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_relops.h \
  C:/msys64/ucrt64/include/c++/13.2.0/iomanip \
  C:/msys64/ucrt64/include/c++/13.2.0/locale \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/locale_facets_nonio.h \
@@ -229,6 +249,7 @@ libs/fastgltf/CMakeFiles/fastgltf.dir/src/base64.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/locale_conv.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/quoted_string.h \
  C:/msys64/ucrt64/include/c++/13.2.0/algorithm \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_algo.h \
  C:/msys64/ucrt64/include/c++/13.2.0/pstl/glue_algorithm_defs.h \
  C:/Users/Lithi/Documents/cube/libs/fastgltf/include/fastgltf/base64.hpp \
  C:/Users/Lithi/Documents/cube/libs/fastgltf/include/fastgltf/types.hpp \
@@ -238,7 +259,6 @@ libs/fastgltf/CMakeFiles/fastgltf.dir/src/base64.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/codecvt \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/fs_dir.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/fs_ops.h \
- C:/msys64/ucrt64/include/c++/13.2.0/optional \
  C:/Users/Lithi/Documents/cube/libs/fastgltf/include/fastgltf/util.hpp \
  C:/msys64/ucrt64/include/c++/13.2.0/variant \
  C:/Users/Lithi/Documents/cube/libs/fastgltf/include/fastgltf/math.hpp \

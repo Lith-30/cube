@@ -1,7 +1,7 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/SDL_log.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_log.c \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\SDL_log.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\SDL_internal.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\core/windows/SDL_windows.h \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/_mingw.h \
  C:/msys64/ucrt64/include/sdkddkver.h C:/msys64/ucrt64/include/excpt.h \
  C:/msys64/ucrt64/include/crtdefs.h \
@@ -68,6 +68,6 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/SDL_log.c.obj: \
  C:/msys64/ucrt64/include/winsvc.h C:/msys64/ucrt64/include/mcx.h \
  C:/msys64/ucrt64/include/imm.h C:/msys64/ucrt64/include/basetyps.h \
  C:/msys64/ucrt64/include/mmreg.h C:/msys64/ucrt64/include/pshpack1.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_log_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\SDL_log_c.h \
  C:/msys64/ucrt64/include/stdio.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/stdlib/SDL_vacopy.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\stdlib/SDL_vacopy.h

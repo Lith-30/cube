@@ -1,8 +1,8 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/sensor/SDL_sensor.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/sensor/SDL_sensor.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\sensor\SDL_sensor.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/sensor/SDL_syssensor.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/sensor/SDL_sensor_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\sensor\SDL_syssensor.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\sensor\SDL_sensor_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/events/SDL_events_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_sysvideo.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_vulkan.h \

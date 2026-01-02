@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/gpu/d3d12/SDL_gpu_d3d12.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/gpu/d3d12/SDL_gpu_d3d12.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\gpu\d3d12\SDL_gpu_d3d12.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/_mingw.h \
@@ -102,4 +102,4 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/gpu/d3d12/SDL_gpu_d3d12.c.obj: \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_close_code.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_surface_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_blit.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/gpu/d3d12/D3D12_Blit.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\gpu\d3d12\D3D12_Blit.h

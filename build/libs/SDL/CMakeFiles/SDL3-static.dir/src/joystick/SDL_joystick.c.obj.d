@@ -1,12 +1,12 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/joystick/SDL_joystick.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/SDL_joystick.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\joystick\SDL_joystick.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/SDL_sysjoystick.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/SDL_joystick_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\joystick\SDL_sysjoystick.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\joystick\SDL_joystick_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_hints_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/SDL_gamepad_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/SDL_steam_virtual_gamepad.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\joystick\SDL_gamepad_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\joystick\SDL_steam_virtual_gamepad.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/events/SDL_events_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_sysvideo.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_vulkan.h \
@@ -29,9 +29,9 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/joystick/SDL_joystick.c.obj: \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/events/SDL_windowevents_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_sysvideo.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/sensor/SDL_sensor_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/hidapi/SDL_hidapijoystick_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\joystick\hidapi/SDL_hidapijoystick_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/usb_ids.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/controller_type.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\joystick\controller_type.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/_mingw.h \
  C:/msys64/ucrt64/include/sdkddkver.h C:/msys64/ucrt64/include/excpt.h \

@@ -1,8 +1,8 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/haptic/hidapi/SDL_hidapihaptic.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/haptic/hidapi/SDL_hidapihaptic.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\haptic\hidapi\SDL_hidapihaptic.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/haptic/hidapi/SDL_hidapihaptic.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/haptic/hidapi/SDL_hidapihaptic_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\haptic\hidapi\SDL_hidapihaptic.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\haptic\hidapi\SDL_hidapihaptic_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_haptic.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_joystick.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/haptic/SDL_syshaptic.h \

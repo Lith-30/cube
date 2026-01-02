@@ -1,8 +1,8 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/audio/directsound/SDL_directsound.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/audio/directsound/SDL_directsound.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\audio\directsound\SDL_directsound.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/audio/SDL_sysaudio.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/audio/directsound/SDL_directsound.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\audio\directsound\SDL_directsound.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_directx.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/_mingw.h \

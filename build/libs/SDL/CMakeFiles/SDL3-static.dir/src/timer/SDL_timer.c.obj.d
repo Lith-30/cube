@@ -1,7 +1,7 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/timer/SDL_timer.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/timer/SDL_timer.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\timer\SDL_timer.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/timer/SDL_timer_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\timer\SDL_timer_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/thread/SDL_systhread.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/thread/SDL_thread_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/thread/windows/SDL_systhread_c.h \

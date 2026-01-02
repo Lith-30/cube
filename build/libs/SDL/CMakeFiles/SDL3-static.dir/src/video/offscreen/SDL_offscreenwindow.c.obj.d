@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/video/offscreen/SDL_offscreenwindow.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/offscreen/SDL_offscreenwindow.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\offscreen\SDL_offscreenwindow.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_sysvideo.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_vulkan.h \
@@ -85,5 +85,5 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/video/offscreen/SDL_offscreenwindow.c.ob
  C:/msys64/ucrt64/include/imm.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/khronos/EGL/eglext.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_sysvideo.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/offscreen/SDL_offscreenwindow.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/offscreen/SDL_offscreenvideo.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\offscreen\SDL_offscreenwindow.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\offscreen\SDL_offscreenvideo.h

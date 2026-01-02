@@ -1,17 +1,17 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/video/SDL_video.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_video.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\SDL_video.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_sysvideo.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\SDL_sysvideo.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_vulkan.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_stdinc.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_error.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_video.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_begin_code.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_close_code.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_surface_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_blit.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_clipboard_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_egl_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\SDL_surface_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\SDL_blit.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\SDL_clipboard_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\SDL_egl_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_egl.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_platform_defines.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/khronos/EGL/egl.h \
@@ -84,9 +84,9 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/video/SDL_video.c.obj: \
  C:/msys64/ucrt64/include/winsvc.h C:/msys64/ucrt64/include/mcx.h \
  C:/msys64/ucrt64/include/imm.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/khronos/EGL/eglext.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_pixels_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_rect_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_video_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\SDL_pixels_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\SDL_rect_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\SDL_video_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/events/SDL_events_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_sysvideo.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/events/SDL_clipboardevents_c.h \

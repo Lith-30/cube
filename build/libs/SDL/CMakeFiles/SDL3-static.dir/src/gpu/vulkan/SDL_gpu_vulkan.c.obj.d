@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/gpu/vulkan/SDL_gpu_vulkan.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/gpu/vulkan/SDL_gpu_vulkan.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\gpu\vulkan\SDL_gpu_vulkan.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/khronos/vulkan/vulkan.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/khronos/vulkan/vk_platform.h \
@@ -30,4 +30,4 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/gpu/vulkan/SDL_gpu_vulkan.c.obj: \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_sysvideo.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_surface_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_blit.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/gpu/vulkan/SDL_gpu_vulkan_vkfuncs.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\gpu\vulkan\SDL_gpu_vulkan_vkfuncs.h

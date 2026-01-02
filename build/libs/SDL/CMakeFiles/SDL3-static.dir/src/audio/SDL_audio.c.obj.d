@@ -1,8 +1,8 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/audio/SDL_audio.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/audio/SDL_audio.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\audio\SDL_audio.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/audio/SDL_audio_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/audio/SDL_sysaudio.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\audio\SDL_audio_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\audio\SDL_sysaudio.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/thread/SDL_systhread.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/thread/SDL_thread_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/thread/windows/SDL_systhread_c.h \

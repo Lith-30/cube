@@ -1,7 +1,7 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/SDL_assert.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_assert.c \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\SDL_assert.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\SDL_internal.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\core/windows/SDL_windows.h \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/_mingw.h \
  C:/msys64/ucrt64/include/sdkddkver.h C:/msys64/ucrt64/include/excpt.h \
  C:/msys64/ucrt64/include/crtdefs.h \
@@ -68,8 +68,8 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/SDL_assert.c.obj: \
  C:/msys64/ucrt64/include/winsvc.h C:/msys64/ucrt64/include/mcx.h \
  C:/msys64/ucrt64/include/imm.h C:/msys64/ucrt64/include/basetyps.h \
  C:/msys64/ucrt64/include/mmreg.h C:/msys64/ucrt64/include/pshpack1.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_assert_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_sysvideo.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\SDL_assert_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video/SDL_sysvideo.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_vulkan.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_stdinc.h \
@@ -77,5 +77,5 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/SDL_assert.c.obj: \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_video.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_begin_code.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_close_code.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_surface_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_blit.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video/SDL_surface_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video/SDL_blit.h

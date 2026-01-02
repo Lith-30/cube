@@ -1,7 +1,7 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/video/offscreen/SDL_offscreenvideo.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/offscreen/SDL_offscreenvideo.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\offscreen\SDL_offscreenvideo.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/offscreen/SDL_offscreenvideo.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\offscreen\SDL_offscreenvideo.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_sysvideo.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_vulkan.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_stdinc.h \
@@ -11,9 +11,9 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/video/offscreen/SDL_offscreenvideo.c.obj
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_close_code.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_surface_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_blit.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/offscreen/SDL_offscreenevents_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/offscreen/SDL_offscreenframebuffer_c.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/offscreen/SDL_offscreenopengles.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\offscreen\SDL_offscreenevents_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\offscreen\SDL_offscreenframebuffer_c.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\offscreen\SDL_offscreenopengles.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_egl_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_egl.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_platform_defines.h \
@@ -88,5 +88,5 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/video/offscreen/SDL_offscreenvideo.c.obj
  C:/msys64/ucrt64/include/imm.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/khronos/EGL/eglext.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_sysvideo.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/offscreen/SDL_offscreenvulkan.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/offscreen/SDL_offscreenwindow.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\offscreen\SDL_offscreenvulkan.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\offscreen\SDL_offscreenwindow.h

@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/video/offscreen/SDL_offscreenvulkan.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/video/offscreen/SDL_offscreenvulkan.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\video\offscreen\SDL_offscreenvulkan.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_vulkan_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \

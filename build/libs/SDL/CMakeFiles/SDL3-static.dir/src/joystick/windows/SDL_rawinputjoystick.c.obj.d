@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/joystick/windows/SDL_rawinputjoystick.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/windows/SDL_rawinputjoystick.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\joystick\windows\SDL_rawinputjoystick.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/usb_ids.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/joystick/SDL_sysjoystick.h \

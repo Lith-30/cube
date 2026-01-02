@@ -1,5 +1,5 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/render/direct3d/SDL_render_d3d.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/direct3d/SDL_render_d3d.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\direct3d\SDL_render_d3d.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/_mingw.h \
@@ -126,4 +126,4 @@ libs/SDL/CMakeFiles/SDL3-static.dir/src/render/direct3d/SDL_render_d3d.c.obj: \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/video/SDL_pixels_c.h \
  C:/msys64/ucrt64/include/d3d9.h C:/msys64/ucrt64/include/d3d9types.h \
  C:/msys64/ucrt64/include/d3d9caps.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/render/direct3d/SDL_shaders_d3d.h
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\render\direct3d\SDL_shaders_d3d.h

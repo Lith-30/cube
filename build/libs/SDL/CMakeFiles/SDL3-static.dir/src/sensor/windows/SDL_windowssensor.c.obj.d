@@ -1,7 +1,7 @@
 libs/SDL/CMakeFiles/SDL3-static.dir/src/sensor/windows/SDL_windowssensor.c.obj: \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/sensor/windows/SDL_windowssensor.c \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\sensor\windows\SDL_windowssensor.c \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/SDL_internal.h \
- C:/Users/Lithi/Documents/cube/libs/SDL/src/sensor/windows/SDL_windowssensor.h \
+ C:\Users\Lithi\Documents\cube\libs\SDL\src\sensor\windows\SDL_windowssensor.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/sensor/SDL_syssensor.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/sensor/SDL_sensor_c.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/src/core/windows/SDL_windows.h \
