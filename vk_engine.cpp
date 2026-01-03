@@ -9,7 +9,6 @@
 #include "vk_initalisers.h"
 #include "vk_types.h"
 
-#include <vulkan/vulkan_core.h>
 #include <VkBootstrap.h>
 
 #include <chrono>
@@ -46,6 +45,7 @@ void VulkanEngine::init() {
 
 	init_vulkan();
 	init_swapchain();
+	init_commands();
 	_isIntialised = true;
 
 }
@@ -76,6 +76,9 @@ void VulkanEngine::init_vulkan() {
 
 	_device = vkbDevice.device;
 	_chosenGPU = physicalDevice.physical_device;
+
+	_graphicsQueue = vkbDevice.get_queue(vkb::QueueType::graphics).value();
+	_graphicsQueueFamily = vkbDevice.get_queue_index(vkb::QueueType::graphics).value();
 
 }
 
@@ -151,3 +154,24 @@ void VulkanEngine::run() {
 
 }
 
+void VulkanEngine::init_commands() {
+	VkCommandPoolCreateInfo commandPoolInfo = {};
+	commandPoolInfo.sType = VK_STRUCTURE_TYPE_COMMAND_POOL_CREATE_INFO;
+	commandPoolInfo.pNext = nullptr;
+
+	commandPoolInfo.queueFamilyIndex = _graphicsQueueFamily;
+
+	commandPoolInfo.flags = VK_COMMAND_POOL_CREATE_RESET_COMMAND_BUFFER_BIT;
+
+	VK_CHECK(vkCreateCommandPool(_device, &commandPoolInfo, nullptr, &_commandPool));
+
+	VkCommandBufferAllocateInfo cmdAllocInfo = {};
+	cmdAllocInfo.sType = VK_STRUCTURE_TYPE_COMMAND_BUFFER_ALLOCATE_INFO;
+	cmdAllocInfo.pNext = nullptr;
+
+	cmdAllocInfo.commandPool = _commandPool;
+	cmdAllocInfo.commandBufferCount = 1;
+	cmdAllocInfo.level = VK_COMMAND_BUFFER_LEVEL_PRIMARY;
+
+	VK_CHECK(vkAllocateCommandBuffers(_device, &cmdAllocInfo, &_mainCommandBuffer));
+}

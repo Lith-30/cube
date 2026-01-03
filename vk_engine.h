@@ -1,5 +1,6 @@
 #pragma once
 #include <vulkan/vulkan_core.h>
+#include <vulkan/vk_enum_string_helper.h>
 #include <vector>
 
 class VulkanEngine {
@@ -23,6 +24,13 @@ public:
 	bool stop_rendering{ false};
 	VkExtent2D _windowExtent{1700, 900};
 
+	// Command Buffer
+	VkQueue _graphicsQueue;
+	uint32_t _graphicsQueueFamily;
+
+	VkCommandPool _commandPool;
+	VkCommandBuffer _mainCommandBuffer;
+
 	struct SDL_Window *_window{ nullptr };
 
 	static VulkanEngine& Get();
@@ -39,4 +47,6 @@ private:
 	void init_vulkan();
 
 	void init_swapchain();
+
+	void init_commands();
 };

@@ -19,6 +19,65 @@ CMakeFiles/cubedrawer.dir/main.cpp.obj: C:/Users/Lithi/Documents/cube/main.cpp \
   C:/msys64/ucrt64/include/_mingw.h \
   C:/msys64/ucrt64/include/_mingw_mac.h \
   C:/msys64/ucrt64/include/_mingw_secapi.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/backward/binders.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bit \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/alloc_traits.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/allocator.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/concept_check.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/cpp_type_traits.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/exception.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/exception_defines.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/functexcept.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/functional_hash.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/hash_bytes.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/invoke.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/iterator_concepts.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/max_size_type.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/memory_resource.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/memoryfwd.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/move.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/new_allocator.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/predefined_ops.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/ptr_traits.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/range_access.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_base.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_cmp.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_util.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/refwrap.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/requires_hosted.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_algobase.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_bvector.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_construct.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_function.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator_base_funcs.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator_base_types.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_pair.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_uninitialized.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_vector.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/uses_allocator.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/uses_allocator_args.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/utility.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/bits/vector.tcc \
+  C:/msys64/ucrt64/include/c++/13.2.0/compare \
+  C:/msys64/ucrt64/include/c++/13.2.0/concepts \
+  C:/msys64/ucrt64/include/c++/13.2.0/cstddef \
+  C:/msys64/ucrt64/include/c++/13.2.0/debug/assertions.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/debug/debug.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/ext/alloc_traits.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/ext/numeric_traits.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/ext/type_traits.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/initializer_list \
+  C:/msys64/ucrt64/include/c++/13.2.0/new \
+  C:/msys64/ucrt64/include/c++/13.2.0/numbers \
+  C:/msys64/ucrt64/include/c++/13.2.0/pstl/pstl_config.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/tuple \
+  C:/msys64/ucrt64/include/c++/13.2.0/type_traits \
+  C:/msys64/ucrt64/include/c++/13.2.0/vector \
+  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/os_defines.h \
   C:/msys64/ucrt64/include/corecrt.h \
   C:/msys64/ucrt64/include/crtdefs.h \
   C:/msys64/ucrt64/include/sdks/_mingw_ddk.h \
@@ -502,13 +561,17 @@ CMakeFiles/cubedrawer.dir/vk_loader.cpp.obj: C:/Users/Lithi/Documents/cube/vk_lo
 CMakeFiles/cubedrawer.dir/vk_pipelines.cpp.obj: C:/Users/Lithi/Documents/cube/vk_pipelines.cpp
 
 
-C:/msys64/ucrt64/include/c++/13.2.0/debug/debug.h:
-
 C:/Program\ Files/VulkanSDK/1.4.335.0/Include/vk_video/vulkan_video_codec_h264std_encode.h:
 
-C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/atomic_word.h:
+C:/msys64/ucrt64/include/c++/13.2.0/debug/debug.h:
 
-C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_filesystem.h:
+C:/msys64/ucrt64/include/c++/13.2.0/chrono:
+
+C:/Users/Lithi/Documents/cube/libs/glm/glm/detail/type_vec3.inl:
+
+C:/Users/Lithi/Documents/cube/libs/glm/glm/detail/type_mat3x3.hpp:
+
+C:/msys64/ucrt64/include/c++/13.2.0/debug/assertions.h:
 
 C:/Program\ Files/VulkanSDK/1.4.335.0/Include/vk_video/vulkan_video_codecs_common.h:
 
@@ -518,6 +581,8 @@ C:/Users/Lithi/Documents/cube/main.cpp:
 
 C:/Program\ Files/VulkanSDK/1.4.335.0/Include/vk_video/vulkan_video_codec_h264std_decode.h:
 
+C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_uninitialized.h:
+
 C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/vector_uint2.hpp:
 
 C:/Users/Lithi/Documents/cube/libs/fmt/include/fmt/format.h:
@@ -526,7 +591,9 @@ C:/Program\ Files/VulkanSDK/1.4.335.0/Include/vk_video/vulkan_video_codec_av1std
 
 C:/Program\ Files/VulkanSDK/1.4.335.0/Include/vk_video/vulkan_video_codec_av1std_decode.h:
 
-C:/msys64/ucrt64/include/stddef.h:
+C:/msys64/ucrt64/include/corecrt_startup.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/utility.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/string_view:
 
@@ -535,10 +602,6 @@ C:/msys64/ucrt64/include/_mingw_off_t.h:
 C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/vector_float4_precision.hpp:
 
 C:/Program\ Files/VulkanSDK/1.4.335.0/Include/vk_video/vulkan_video_codec_av1std_encode.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/version:
-
-C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_asyncio.h:
 
 C:/Program\ Files/VulkanSDK/1.4.335.0/Include/vk_video/vulkan_video_codec_h264std.h:
 
@@ -552,25 +615,23 @@ C:/msys64/ucrt64/include/c++/13.2.0/bits/locale_conv.h:
 
 C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_double4x4_precision.hpp:
 
-C:/msys64/ucrt64/include/_mingw_mac.h:
-
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_messagebox.h:
 
-C:/msys64/ucrt64/include/c++/13.2.0/ext/type_traits.h:
+C:/msys64/ucrt64/include/_mingw_mac.h:
 
 C:/Users/Lithi/Documents/cube/libs/glm/glm/detail/type_vec1.hpp:
 
+C:/msys64/ucrt64/include/c++/13.2.0/ext/type_traits.h:
+
 C:/Program\ Files/VulkanSDK/1.4.335.0/Include/vk_video/vulkan_video_codec_h265std_decode.h:
 
-C:/msys64/ucrt64/include/c++/13.2.0/bits/unordered_map.h:
+C:/msys64/ucrt64/include/c++/13.2.0/thread:
 
-C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_dlopennote.h:
+C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/scalar_int_sized.hpp:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/predefined_ops.h:
 
 C:/Program\ Files/VulkanSDK/1.4.335.0/Include/vk_video/vulkan_video_codec_h265std_encode.h:
-
-C:/Users/Lithi/Documents/cube/libs/glm/glm/detail/type_vec1.inl:
-
-C:/Program\ Files/VulkanSDK/1.4.335.0/Include/vulkan/vulkan.h:
 
 C:/msys64/ucrt64/include/sec_api/sys/timeb_s.h:
 
@@ -578,41 +639,187 @@ C:/Users/Lithi/Documents/cube/libs/vk-bootstrap/src/VkBootstrapDispatch.h:
 
 C:/Program\ Files/VulkanSDK/1.4.335.0/Include/vk_video/vulkan_video_codec_vp9std.h:
 
-C:/msys64/ucrt64/include/c++/13.2.0/tr1/ell_integral.tcc:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/ostream_insert.h:
-
-C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_blendmode.h:
-
-C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h:
-
 C:/msys64/ucrt64/include/c++/13.2.0/bits/sstream.tcc:
 
 C:/Program\ Files/VulkanSDK/1.4.335.0/Include/vk_video/vulkan_video_codec_vp9std_decode.h:
 
+C:/msys64/ucrt64/include/c++/13.2.0/bits/iterator_concepts.h:
+
 C:/Program\ Files/VulkanSDK/1.4.335.0/Include/vulkan/vulkan_core.h:
 
-C:/Users/Lithi/Documents/cube/libs/glm/glm/detail/type_vec2.inl:
+C:/msys64/ucrt64/include/c++/13.2.0/tuple:
 
-C:/Users/Lithi/Documents/cube/vk_engine.cpp:
+C:/msys64/ucrt64/include/c++/13.2.0/bits/move.h:
 
 C:/msys64/ucrt64/include/_mingw.h:
 
-C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float4x4.hpp:
-
-C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_dialog.h:
-
-C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_audio.h:
-
-C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_bits.h:
-
-C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h:
-
-C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/vector_float2.hpp:
-
-C:/msys64/ucrt64/include/sdks/_mingw_ddk.h:
-
 C:/msys64/ucrt64/include/_mingw_secapi.h:
+
+C:/msys64/ucrt64/include/limits.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/atomic:
+
+C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float2x4_precision.hpp:
+
+C:/Users/Lithi/Documents/cube/libs/glm/glm/detail/type_mat2x3.inl:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/range_access.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bit:
+
+C:/msys64/ucrt64/include/c++/13.2.0/backward/binders.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/atomic_timed_wait.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/alloc_traits.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/allocator.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/concept_check.h:
+
+C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float2x3.hpp:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/functional_hash.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/requires_hosted.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/tr1/modified_bessel_func.tcc:
+
+C:/Users/Lithi/Documents/cube/libs/glm/glm/mat3x2.hpp:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/cpp_type_traits.h:
+
+C:/msys64/ucrt64/include/pthread_signal.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/exception.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_cmp.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/exception_defines.h:
+
+C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/vector_double4_precision.hpp:
+
+C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float4x2.hpp:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/functexcept.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/basic_string.tcc:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/hash_bytes.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/invoke.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/max_size_type.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/cmath:
+
+C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_metal.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/memory_resource.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_algobase.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/memoryfwd.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/error_constants.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/new_allocator.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/exception:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_pair.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/ptr_traits.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/streambuf:
+
+C:/msys64/ucrt64/include/assert.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_base.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/locale_classes.tcc:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_util.h:
+
+C:/Users/Lithi/Documents/cube/libs/fmt/include/fmt/core.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/refwrap.h:
+
+C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_assert.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_bvector.h:
+
+C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_double4x3.hpp:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_construct.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/std_abs.h:
+
+C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_haptic.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_function.h:
+
+C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/vector_double4.hpp:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator_base_funcs.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator_base_types.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_vector.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/uses_allocator.h:
+
+C:/msys64/ucrt64/include/stdint.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/uses_allocator_args.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/os_defines.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/vector.tcc:
+
+C:/msys64/ucrt64/include/c++/13.2.0/concepts:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/char_traits.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/compare:
+
+C:/Users/Lithi/Documents/cube/vk_initalisers.cpp:
+
+C:/msys64/ucrt64/include/c++/13.2.0/cstddef:
+
+C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_double4x3_precision.hpp:
+
+C:/msys64/ucrt64/include/c++/13.2.0/ext/alloc_traits.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/ext/numeric_traits.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/initializer_list:
+
+C:/msys64/ucrt64/include/c++/13.2.0/new:
+
+C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_hints.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/numbers:
+
+C:/msys64/ucrt64/include/c++/13.2.0/pstl/pstl_config.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/type_traits:
+
+C:/msys64/ucrt64/include/sec_api/wchar_s.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/vector:
+
+C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_surface.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++allocator.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/align.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/cpu_defines.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/iomanip:
 
@@ -620,11 +827,11 @@ C:/msys64/ucrt64/include/corecrt.h:
 
 C:/msys64/ucrt64/include/crtdefs.h:
 
-C:/msys64/ucrt64/include/c++/13.2.0/bits/uses_allocator_args.h:
+C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/vector_float2.hpp:
 
-C:/msys64/ucrt64/include/stdint.h:
+C:/msys64/ucrt64/include/sdks/_mingw_ddk.h:
 
-C:/Users/Lithi/Documents/cube/vk_descriptors.cpp:
+C:/msys64/ucrt64/include/stddef.h:
 
 C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/vector_bool3_precision.hpp:
 
@@ -632,43 +839,65 @@ C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float3x2_precision.hpp:
 
 C:/msys64/ucrt64/include/vadefs.h:
 
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h:
+
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h:
+
 C:/Users/Lithi/Documents/cube/vk_engine.h:
+
+C:/Users/Lithi/Documents/cube/vk_descriptors.cpp:
+
+C:/Users/Lithi/Documents/cube/libs/glm/glm/detail/type_vec2.inl:
+
+C:/Users/Lithi/Documents/cube/vk_engine.cpp:
+
+C:/Users/Lithi/Documents/cube/libs/glm/glm/detail/type_vec1.inl:
+
+C:/Program\ Files/VulkanSDK/1.4.335.0/Include/vulkan/vulkan.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/ext/aligned_buffer.h:
 
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL.h:
 
-C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_bvector.h:
+C:/msys64/ucrt64/include/c++/13.2.0/version:
 
-C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_assert.h:
+C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_asyncio.h:
 
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_atomic.h:
+
+C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_bits.h:
+
+C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_audio.h:
 
 C:/Users/Lithi/Documents/cube/libs/glm/glm/detail/type_mat4x4.hpp:
 
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_begin_code.h:
 
+C:/msys64/ucrt64/include/c++/13.2.0/tr1/ell_integral.tcc:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/ostream_insert.h:
+
+C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_blendmode.h:
+
 C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float2x2_precision.hpp:
 
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_camera.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/semaphore:
-
-C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_log.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/numbers:
-
-C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_hints.h:
 
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_clipboard.h:
 
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_close_code.h:
 
-C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_error.h:
-
 C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_double3x2.hpp:
 
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_cpuinfo.h:
+
+C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float4x4.hpp:
+
+C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_dialog.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/unordered_map.h:
+
+C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_dlopennote.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/parse_numbers.h:
 
@@ -678,7 +907,13 @@ C:/Users/Lithi/Documents/cube/libs/glm/glm/exponential.hpp:
 
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_endian.h:
 
+C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_error.h:
+
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_events.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/atomic_word.h:
+
+C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_filesystem.h:
 
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_gamepad.h:
 
@@ -688,19 +923,9 @@ C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_gpu.h:
 
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_guid.h:
 
-C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_function.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/std_abs.h:
-
-C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_haptic.h:
-
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_hidapi.h:
 
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_init.h:
-
-C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float2x2.hpp:
-
-C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_keycode.h:
 
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_iostream.h:
 
@@ -710,19 +935,19 @@ C:/msys64/ucrt64/include/c++/13.2.0/bits/quoted_string.h:
 
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_keyboard.h:
 
+C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float2x2.hpp:
+
+C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_keycode.h:
+
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_loadso.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/locale_facets_nonio.h:
 
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_locale.h:
 
-C:/msys64/ucrt64/include/c++/13.2.0/cmath:
+C:/msys64/ucrt64/include/c++/13.2.0/semaphore:
 
-C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_algobase.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/memory_resource.h:
-
-C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_metal.h:
+C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_log.h:
 
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_misc.h:
 
@@ -788,10 +1013,6 @@ C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float3x2.hpp:
 
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_storage.h:
 
-C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++allocator.h:
-
-C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_surface.h:
-
 C:/msys64/ucrt64/include/c++/13.2.0/bits/shared_ptr_base.h:
 
 C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float3x4.hpp:
@@ -817,10 +1038,6 @@ C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_video.h:
 C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_vulkan.h:
 
 C:/Users/Lithi/Documents/cube/libs/fmt/include/fmt/base.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/refwrap.h:
-
-C:/Users/Lithi/Documents/cube/libs/fmt/include/fmt/core.h:
 
 C:/Users/Lithi/Documents/cube/libs/glm/glm/detail/_fixes.hpp:
 
@@ -852,16 +1069,6 @@ C:/Users/Lithi/Documents/cube/libs/glm/glm/detail/setup.hpp:
 
 C:/Users/Lithi/Documents/cube/libs/glm/glm/detail/type_mat2x3.hpp:
 
-C:/msys64/ucrt64/include/limits.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/range_access.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/atomic:
-
-C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float2x4_precision.hpp:
-
-C:/Users/Lithi/Documents/cube/libs/glm/glm/detail/type_mat2x3.inl:
-
 C:/msys64/ucrt64/include/c++/13.2.0/tr1/gamma.tcc:
 
 C:/Users/Lithi/Documents/cube/libs/glm/glm/detail/type_mat2x4.hpp:
@@ -877,14 +1084,6 @@ C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float2x3_precision.hpp:
 C:/Users/Lithi/Documents/cube/libs/glm/glm/detail/type_mat3x2.hpp:
 
 C:/Users/Lithi/Documents/cube/libs/glm/glm/detail/type_mat3x2.inl:
-
-C:/msys64/ucrt64/include/c++/13.2.0/debug/assertions.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/chrono:
-
-C:/Users/Lithi/Documents/cube/libs/glm/glm/detail/type_vec3.inl:
-
-C:/Users/Lithi/Documents/cube/libs/glm/glm/detail/type_mat3x3.hpp:
 
 C:/Users/Lithi/Documents/cube/libs/glm/glm/detail/type_mat3x3.inl:
 
@@ -958,21 +1157,7 @@ C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_double4x2.hpp:
 
 C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_double4x2_precision.hpp:
 
-C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_construct.h:
-
-C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_double4x3.hpp:
-
-C:/msys64/ucrt64/include/c++/13.2.0/ext/alloc_traits.h:
-
-C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_double4x3_precision.hpp:
-
 C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_double4x4.hpp:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/requires_hosted.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/functional_hash.h:
-
-C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float2x3.hpp:
 
 C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/vector_bool2.hpp:
 
@@ -986,12 +1171,6 @@ C:/msys64/ucrt64/include/c++/13.2.0/stdlib.h:
 
 C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float3x4_precision.hpp:
 
-C:/msys64/ucrt64/include/c++/13.2.0/bits/functexcept.h:
-
-C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/vector_double4_precision.hpp:
-
-C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float4x2.hpp:
-
 C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float4x3.hpp:
 
 C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float4x2_precision.hpp:
@@ -999,12 +1178,6 @@ C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float4x2_precision.hpp:
 C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/vector_int4_sized.hpp:
 
 C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/matrix_float4x4_precision.hpp:
-
-C:/msys64/ucrt64/include/c++/13.2.0/thread:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/predefined_ops.h:
-
-C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/scalar_int_sized.hpp:
 
 C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/scalar_uint_sized.hpp:
 
@@ -1023,10 +1196,6 @@ C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/vector_double3.hpp:
 C:/msys64/ucrt64/include/math.h:
 
 C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/vector_double3_precision.hpp:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator_base_funcs.h:
-
-C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/vector_double4.hpp:
 
 C:/Users/Lithi/Documents/cube/libs/glm/glm/ext/vector_float2_precision.hpp:
 
@@ -1072,12 +1241,6 @@ C:/msys64/ucrt64/include/c++/13.2.0/format:
 
 C:/Users/Lithi/Documents/cube/libs/glm/glm/mat2x3.hpp:
 
-C:/msys64/ucrt64/include/c++/13.2.0/tr1/modified_bessel_func.tcc:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/cpp_type_traits.h:
-
-C:/Users/Lithi/Documents/cube/libs/glm/glm/mat3x2.hpp:
-
 C:/Users/Lithi/Documents/cube/libs/glm/glm/mat3x3.hpp:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/specfun.h:
@@ -1112,27 +1275,7 @@ C:/msys64/ucrt64/include/_mingw_stdarg.h:
 
 C:/msys64/ucrt64/include/_timeval.h:
 
-C:/msys64/ucrt64/include/c++/13.2.0/streambuf:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_base.h:
-
-C:/msys64/ucrt64/include/assert.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/backward/binders.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bit:
-
 C:/msys64/ucrt64/include/c++/13.2.0/bits/algorithmfwd.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/align.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/atomic_timed_wait.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/alloc_traits.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/allocator.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/atomic_base.h:
 
@@ -1148,19 +1291,9 @@ C:/msys64/ucrt64/include/c++/13.2.0/sstream:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/basic_string.h:
 
-C:/msys64/ucrt64/include/c++/13.2.0/bits/hash_bytes.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/basic_string.tcc:
-
-C:/msys64/ucrt64/include/c++/13.2.0/compare:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/char_traits.h:
-
 C:/msys64/ucrt64/include/c++/13.2.0/bits/charconv.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/chrono.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/concept_check.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/hashtable_policy.h:
 
@@ -1176,31 +1309,15 @@ C:/msys64/ucrt64/include/c++/13.2.0/bits/locale_facets.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/enable_special_members.h:
 
-C:/msys64/ucrt64/include/pthread_signal.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_cmp.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/exception.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/exception_defines.h:
-
 C:/msys64/ucrt64/include/c++/13.2.0/bits/exception_ptr.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/invoke.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/ios_base.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/istream.tcc:
 
-C:/msys64/ucrt64/include/c++/13.2.0/bits/iterator_concepts.h:
-
 C:/msys64/ucrt64/include/c++/13.2.0/bits/nested_exception.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/locale_classes.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_util.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/locale_classes.tcc:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_algo.h:
 
@@ -1214,18 +1331,6 @@ C:/msys64/ucrt64/include/c++/13.2.0/cctype:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/localefwd.h:
 
-C:/msys64/ucrt64/include/c++/13.2.0/bits/max_size_type.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/memoryfwd.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/tuple:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/move.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/error_constants.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/new_allocator.h:
-
 C:/msys64/ucrt64/include/c++/13.2.0/bits/node_handle.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/ostream.tcc:
@@ -1233,8 +1338,6 @@ C:/msys64/ucrt64/include/c++/13.2.0/bits/ostream.tcc:
 C:/msys64/ucrt64/include/c++/13.2.0/cwchar:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/postypes.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/ptr_traits.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_raw_storage_iter.h:
 
@@ -1254,19 +1357,7 @@ C:/msys64/ucrt64/include/c++/13.2.0/bits/std_thread.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_deque.h:
 
-C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator_base_types.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/exception:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_pair.h:
-
 C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_tempbuf.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_uninitialized.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_vector.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/stringfwd.h:
 
@@ -1278,25 +1369,9 @@ C:/msys64/ucrt64/include/c++/13.2.0/bits/uniform_int_dist.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/unique_ptr.h:
 
-C:/msys64/ucrt64/include/c++/13.2.0/bits/uses_allocator.h:
-
-C:/msys64/ucrt64/include/corecrt_startup.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/utility.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/os_defines.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/bits/vector.tcc:
-
 C:/msys64/ucrt64/include/c++/13.2.0/cwctype:
 
 C:/msys64/ucrt64/include/c++/13.2.0/clocale:
-
-C:/msys64/ucrt64/include/c++/13.2.0/concepts:
-
-C:/Users/Lithi/Documents/cube/vk_initalisers.cpp:
-
-C:/msys64/ucrt64/include/c++/13.2.0/cstddef:
 
 C:/msys64/ucrt64/include/c++/13.2.0/cstdint:
 
@@ -1312,21 +1387,15 @@ C:/msys64/ucrt64/include/c++/13.2.0/ext/atomicity.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/ext/concurrence.h:
 
-C:/msys64/ucrt64/include/c++/13.2.0/ext/numeric_traits.h:
-
 C:/Users/Lithi/Documents/cube/vk_pipelines.cpp:
 
 C:/msys64/ucrt64/include/c++/13.2.0/ext/string_conversions.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/functional:
 
-C:/msys64/ucrt64/include/c++/13.2.0/initializer_list:
-
 C:/msys64/ucrt64/include/c++/13.2.0/iosfwd:
 
 C:/msys64/ucrt64/include/c++/13.2.0/limits:
-
-C:/msys64/ucrt64/include/c++/13.2.0/new:
 
 C:/msys64/ucrt64/include/c++/13.2.0/optional:
 
@@ -1335,8 +1404,6 @@ C:/msys64/ucrt64/include/c++/13.2.0/ostream:
 C:/msys64/ucrt64/include/c++/13.2.0/pstl/execution_defs.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/pstl/glue_memory_defs.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/pstl/pstl_config.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/span:
 
@@ -1362,19 +1429,11 @@ C:/msys64/ucrt64/include/c++/13.2.0/tr1/riemann_zeta.tcc:
 
 C:/msys64/ucrt64/include/c++/13.2.0/tr1/special_function_util.h:
 
-C:/msys64/ucrt64/include/c++/13.2.0/type_traits:
-
 C:/msys64/ucrt64/include/c++/13.2.0/typeinfo:
 
 C:/msys64/ucrt64/include/c++/13.2.0/variant:
 
-C:/msys64/ucrt64/include/sec_api/wchar_s.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/vector:
-
 C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++locale.h:
-
-C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/cpu_defines.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/ctype_base.h:
 
