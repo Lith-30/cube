@@ -10,6 +10,7 @@ project(cubedrawer)
 # Import Vulkan
 find_package(Vulkan REQUIRED)
 add_subdirectory(libs)
+add_subdirectory(shader)
 
 # import all installed libraries
 add_executable(${PROJECT_NAME} 
@@ -33,9 +34,7 @@ target_link_libraries(${PROJECT_NAME} PRIVATE
 	Vulkan::Vulkan
 )
 
-get_target_property(VK_INCS Vulkan::Vulkan INTERFACE_INCLUDE_DIRECTORIES)
-message(STATUS "Vulkan Headers: " ${VK_INCS})
-
+add_shaders(${PROJECT_NAME} ${CMAKE_CURRENT_SOURCE_DIR}/shader/triangle.vert ${CMAKE_CURRENT_SOURCE_DIR}/shader/triangle.frag)
 
 
 

@@ -27,9 +27,18 @@ public:
 	// Command Buffer
 	VkQueue _graphicsQueue;
 	uint32_t _graphicsQueueFamily;
-
+	
+	// Command pool
 	VkCommandPool _commandPool;
 	VkCommandBuffer _mainCommandBuffer;
+	
+	// Render pass
+	VkRenderPass _renderPass;
+	std::vector<VkFramebuffer> _framebuffers;
+	
+	// Semaphore
+	VkSemaphore _presentSemaphore, _renderSemaphore;
+	VkFence _renderFence;
 
 	struct SDL_Window *_window{ nullptr };
 
@@ -49,4 +58,10 @@ private:
 	void init_swapchain();
 
 	void init_commands();
+
+	void init_default_renderpass();
+
+	void init_framebuffers();
+
+	void init_sync_structures();
 };

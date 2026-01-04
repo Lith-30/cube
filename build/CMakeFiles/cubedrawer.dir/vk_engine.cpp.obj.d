@@ -200,6 +200,7 @@ CMakeFiles/cubedrawer.dir/vk_engine.cpp.obj: \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_version.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_oldnames.h \
  C:/Users/Lithi/Documents/cube/libs/SDL/include/SDL3/SDL_vulkan.h \
+ C:\Users\Lithi\Documents\cube\libs/SDL/src/video/khronos/vulkan/vulkan_core.h \
  C:\Users\Lithi\Documents\cube\vk_initalisers.h \
  C:\Users\Lithi\Documents\cube\vk_types.h \
  C:/msys64/ucrt64/include/c++/13.2.0/memory \
